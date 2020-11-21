@@ -9,7 +9,6 @@ public class MapGenerator : MonoBehaviour
     public int distance;
     public int space;
 
-    GameObject 
     // Start is called before the first frame update
     void Start()
     {
