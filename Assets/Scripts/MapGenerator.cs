@@ -4,6 +4,12 @@ using UnityEngine;
 
 public class MapGenerator : MonoBehaviour
 {
+    public int width;
+    public int height;
+    public int distance;
+    public int space;
+
+    GameObject 
     // Start is called before the first frame update
     void Start()
     {
