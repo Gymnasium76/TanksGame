@@ -1,23 +1,34 @@
 ﻿<Properties StartupConfiguration="{C7E45AC5-E64D-261F-DF12-5BF4A531E67F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../ЕУые/Assets/GAME/Snake(Game)/Scripts/SnakeScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mirror/Runtime/NetworkManager.cs">
     <Files>
-      <File FileName="Assets/Mirror/Runtime/NetworkManager.cs" Line="23" Column="81" />
-      <File FileName="Assets/Scripts/NetworkManagerCustom.cs" Line="10" Column="9" />
-      <File FileName="Assets/Scripts/MapGenerator.cs" Line="11" Column="1" />
-      <File FileName="../../ЕУые/Assets/GAME/Snake(Game)/Scripts/SnakeScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" Line="12" Column="37" />
+      <File FileName="Assets/Scripts/TankScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Mirror/Runtime/NetworkManager.cs" />
+      <File FileName="Assets/Scripts/NetworkManagerCustom.cs" />
+      <File FileName="../../ЕУые/Assets/GAME/Snake(Game)/Scripts/SnakeScript.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Tanks" expanded="True" selected="True" />
+          <Node name="Tanks" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Mirror" expanded="True">
+                <Node name="Runtime" expanded="True">
+                  <Node name="NetworkManager.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Utility" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="18fd6925-7fd7-423b-abe7-985792dcde64" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1cc69eef-4df0-468b-8918-390e32c2c0cf" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
