@@ -9,6 +9,12 @@ public class TankScript : MonoBehaviour
     public GameObject S;
     public GameObject D;
     public GameObject tank;
+    public GameObject placeW;
+    public GameObject placeA;
+    public GameObject placeS;
+    public GameObject placeD;
+    public GameObject tile;
+
     float speed = 0.3f;
 
     private void Start()
@@ -48,6 +54,26 @@ public class TankScript : MonoBehaviour
             A.SetActive(false);
             S.SetActive(false);
             D.SetActive(true);
+        }
+
+        if(CrossPlatformInputManager.GetButtonDown("FireBtn"))
+        {
+            if(W.active)
+            {
+
+            }
+            else if(A.active)
+            {
+
+            }
+            else if(S.active)
+            {
+
+            }
+            else if(D.active)
+            {
+
+            }
         }
     }
 }
