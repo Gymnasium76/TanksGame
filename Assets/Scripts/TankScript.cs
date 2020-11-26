@@ -15,6 +15,8 @@ public class TankScript : MonoBehaviour
     public GameObject placeD;
     public GameObject tile;
 
+    Quaternion SpawnRot;
+
     float speed = 0.3f;
 
     private void Start()
@@ -55,24 +57,46 @@ public class TankScript : MonoBehaviour
             S.SetActive(false);
             D.SetActive(true);
         }
-
+        //Debug.Log("SALAM");
         if(CrossPlatformInputManager.GetButtonDown("FireBtn"))
         {
-            if(W.active)
+            Debug.Log("PRIVET");
+            if (W.activeSelf)
             {
-
+                Debug.Log("ACTIVE");
+                SpawnRot = placeW.transform.rotation;
+                Vector3 SpawnPoint = placeW.transform.position;
+                GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
+                Rigidbody Run = FireScr.GetComponent<Rigidbody>();
+                Run.AddForce(FireScr.transform.up * 20, ForceMode.Impulse);
+                Destroy(FireScr, 0.2f);
             }
-            else if(A.active)
+            else if(A.activeSelf)
             {
-
+                SpawnRot = placeA.transform.rotation;
+                Vector3 SpawnPoint = placeA.transform.position;
+                GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
+                Rigidbody Run = FireScr.GetComponent<Rigidbody>();
+                Run.AddForce(FireScr.transform.right * -20, ForceMode.Impulse);
+                Destroy(FireScr, 0.2f);
             }
-            else if(S.active)
+            else if(S.activeSelf)
             {
-
+                SpawnRot = placeS.transform.rotation;
+                Vector3 SpawnPoint = placeS.transform.position;
+                GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
+                Rigidbody Run = FireScr.GetComponent<Rigidbody>();
+                Run.AddForce(FireScr.transform.up * -20, ForceMode.Impulse);
+                Destroy(FireScr, 0.2f);
             }
-            else if(D.active)
+            else if(D.activeSelf)
             {
-
+                SpawnRot = placeD.transform.rotation;
+                Vector3 SpawnPoint = placeD.transform.position;
+                GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
+                Rigidbody Run = FireScr.GetComponent<Rigidbody>();
+                Run.AddForce(FireScr.transform.right * 20, ForceMode.Impulse);
+                Destroy(FireScr, 0.2f);
             }
         }
     }

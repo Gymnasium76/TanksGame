@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mirror/Runtime/NetworkManager.cs">
     <Files>
       <File FileName="Assets/Scripts/TankScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/Mirror/Runtime/NetworkManager.cs" />
+      <File FileName="Assets/Mirror/Runtime/NetworkManager.cs" Line="23" Column="81" />
       <File FileName="Assets/Scripts/NetworkManagerCustom.cs" />
       <File FileName="../../ЕУые/Assets/GAME/Snake(Game)/Scripts/SnakeScript.cs" />
     </Files>
@@ -12,11 +12,11 @@
           <Node name="Tanks" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Mirror" expanded="True">
-                <Node name="Runtime" expanded="True">
-                  <Node name="NetworkManager.cs" selected="True" />
-                </Node>
+                <Node name="Runtime" expanded="True" />
               </Node>
-              <Node name="Scripts" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="TankScript.cs" selected="True" />
+              </Node>
               <Node name="Standard Assets" expanded="True">
                 <Node name="Utility" expanded="True" />
               </Node>
@@ -28,7 +28,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1cc69eef-4df0-468b-8918-390e32c2c0cf" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="80440a34-cde2-4a86-823f-18cd07117aba" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
