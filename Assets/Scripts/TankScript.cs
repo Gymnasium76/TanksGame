@@ -17,15 +17,55 @@ public class TankScript : MonoBehaviour
 
     Quaternion SpawnRot;
 
-    float speed = 0.3f;
+    private bool UpChecker=false, LeftChecker=false, RightChecker=false, DownChecker=false;
+
+    float speed = 0.005f;
 
     private void Start()
     {
-        
+
     }
     private void Update()
     {
         if(CrossPlatformInputManager.GetButtonDown("UpBtn"))
+        {
+            /*tank.transform.Translate(0, speed /** Time.deltaTime, 0);
+            W.SetActive(true);
+            A.SetActive(false);
+            S.SetActive(false);
+            D.SetActive(false);*/
+            UpChecker = true;
+        }
+        else if (CrossPlatformInputManager.GetButtonDown("DownBtn"))
+        {
+            /*tank.transform.Translate(0, -speed /** Time.deltaTime, 0);
+            W.SetActive(false);
+            A.SetActive(false);
+            S.SetActive(true);
+            D.SetActive(false);*/
+            DownChecker = true;
+        }
+        else if (CrossPlatformInputManager.GetButtonDown("LeftBtn"))
+        {
+            /*tank.transform.Translate(-speed /** Time.deltaTime, 0 , 0);
+            W.SetActive(false);
+            A.SetActive(true);
+            S.SetActive(false);
+            D.SetActive(false);*/
+            LeftChecker = true;
+        }
+        else if (CrossPlatformInputManager.GetButtonDown("RightBtn"))
+        {
+            /*tank.transform.Translate(speed /** Time.deltaTime,0,  0);
+            W.SetActive(false);
+            A.SetActive(false);
+            S.SetActive(false);
+            D.SetActive(true);*/
+            RightChecker = true;
+        }
+        //Debug.Log("SALAM");
+        Debug.Log(LeftChecker);
+        if(UpChecker==true)
         {
             tank.transform.Translate(0, speed /** Time.deltaTime*/, 0);
             W.SetActive(true);
@@ -33,7 +73,7 @@ public class TankScript : MonoBehaviour
             S.SetActive(false);
             D.SetActive(false);
         }
-        else if (CrossPlatformInputManager.GetButtonDown("DownBtn"))
+        else if(DownChecker==true)
         {
             tank.transform.Translate(0, -speed /** Time.deltaTime*/, 0);
             W.SetActive(false);
@@ -41,7 +81,7 @@ public class TankScript : MonoBehaviour
             S.SetActive(true);
             D.SetActive(false);
         }
-        else if (CrossPlatformInputManager.GetButtonDown("LeftBtn"))
+        else if(LeftChecker==true)
         {
             tank.transform.Translate(-speed /** Time.deltaTime*/, 0 , 0);
             W.SetActive(false);
@@ -49,7 +89,7 @@ public class TankScript : MonoBehaviour
             S.SetActive(false);
             D.SetActive(false);
         }
-        else if (CrossPlatformInputManager.GetButtonDown("RightBtn"))
+        else if(RightChecker==true)
         {
             tank.transform.Translate(speed /** Time.deltaTime*/,0,  0);
             W.SetActive(false);
@@ -57,7 +97,6 @@ public class TankScript : MonoBehaviour
             S.SetActive(false);
             D.SetActive(true);
         }
-        //Debug.Log("SALAM");
         if(CrossPlatformInputManager.GetButtonDown("FireBtn"))
         {
             Debug.Log("PRIVET");
@@ -99,5 +138,29 @@ public class TankScript : MonoBehaviour
                 Destroy(FireScr, 0.2f);
             }
         }
+        if (CrossPlatformInputManager.GetButtonUp("UpBtn"))
+        {
+            UpChecker = false;
+        }
+        else if (CrossPlatformInputManager.GetButtonUp("DownBtn"))
+        {
+            DownChecker = false;
+        }
+        else if (CrossPlatformInputManager.GetButtonUp("LeftBtn"))
+        {
+            LeftChecker = false;
+        }
+        else if (CrossPlatformInputManager.GetButtonUp("RightBtn"))
+        {
+            RightChecker = false;
+        }
+    }
+    void OnCollisionStay2D(Collision2D other)
+    {
+        /*if (other.collider.tag != "Tile")
+        {*/
+            Debug.Log("PRIVET");
+            speed = 0;
+        //}
     }
 }
