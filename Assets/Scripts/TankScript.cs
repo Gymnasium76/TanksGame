@@ -107,7 +107,7 @@ public class TankScript : MonoBehaviour
                 Vector3 SpawnPoint = placeW.transform.position;
                 GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
                 Rigidbody Run = FireScr.GetComponent<Rigidbody>();
-                Run.AddForce(FireScr.transform.up * 20, ForceMode.Impulse);
+                Run.AddForce(FireScr.transform.up * 10, ForceMode.Impulse);
                 //Destroy(FireScr, 0.2f);
             }
             else if(A.activeSelf)
@@ -116,7 +116,7 @@ public class TankScript : MonoBehaviour
                 Vector3 SpawnPoint = placeA.transform.position;
                 GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
                 Rigidbody Run = FireScr.GetComponent<Rigidbody>();
-                Run.AddForce(FireScr.transform.right * -20, ForceMode.Impulse);
+                Run.AddForce(FireScr.transform.right * -10, ForceMode.Impulse);
                 //Destroy(FireScr, 0.2f);
             }
             else if(S.activeSelf)
@@ -125,7 +125,7 @@ public class TankScript : MonoBehaviour
                 Vector3 SpawnPoint = placeS.transform.position;
                 GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
                 Rigidbody Run = FireScr.GetComponent<Rigidbody>();
-                Run.AddForce(FireScr.transform.up * -20, ForceMode.Impulse);
+                Run.AddForce(FireScr.transform.up * -10, ForceMode.Impulse);
                 //Destroy(FireScr, 0.2f);
             }
             else if(D.activeSelf)
@@ -134,7 +134,7 @@ public class TankScript : MonoBehaviour
                 Vector3 SpawnPoint = placeD.transform.position;
                 GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
                 Rigidbody Run = FireScr.GetComponent<Rigidbody>();
-                Run.AddForce(FireScr.transform.right * 20, ForceMode.Impulse);
+                Run.AddForce(FireScr.transform.right * 10, ForceMode.Impulse);
                 //Destroy(FireScr, 0.2f);
             }
         }

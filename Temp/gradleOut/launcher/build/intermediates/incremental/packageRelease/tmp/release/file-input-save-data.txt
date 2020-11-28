@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Nov 28 10:32:34 MSK 2020
+#Sat Nov 28 13:16:33 MSK 2020
 60.set=ASSET
 52.set=ASSET
 53.base=/Users/olegnabereznyy/Downloads/Tanks/Temp/gradleOut/launcher/build/intermediates/merged_assets/release/out

@@ -28,7 +28,10 @@ public class WallScript : MonoBehaviour
 		}
         if (other.tag == "Tile1")
         {
-          Destroy(other.collider.gameObject);
+            Debug.Log("SALAMAAA");
+            Destroy(other.gameObject);
+            Destroy(other.transform.parent.gameObject);
+            Debug.Log(other.name);
         }
     }
     void OnTriggerExit2D(Collider2D other)

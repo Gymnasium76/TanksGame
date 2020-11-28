@@ -6,10 +6,10 @@ public class TileScript : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.tag == "Wall")
+        /*if (other.tag == "Wall")
         {
             Debug.Log("SALAM");
             Destroy(gameObject);
-        }
+        }*/
     }
 }
