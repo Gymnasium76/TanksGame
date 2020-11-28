@@ -13,306 +13,690 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-28T13:16:41.473+03:00
+  lastUpdatedAtString: 2020-11-28T16:26:21.327+03:00
   initializedAtString: 2020-11-26T21:11:28.867+03:00
   entries:
-  - path: AlphaTest4.apk
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/AlphaTest4.apk
-    projectPath: AlphaTest4.apk
+  - path: .vs/Tanks/xs/project-cache/Assembly-CSharp-Debug.json
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/.vs/Tanks/xs/project-cache/Assembly-CSharp-Debug.json
+    projectPath: .vs/Tanks/xs/project-cache/Assembly-CSharp-Debug.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/Tanks/xs/UserPrefs.xml
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/.vs/Tanks/xs/UserPrefs.xml
+    projectPath: .vs/Tanks/xs/UserPrefs.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AlphaTest5.apk
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/AlphaTest5.apk
+    projectPath: AlphaTest5.apk
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Prefabs/Tank.prefab
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Prefabs/Tank.prefab
-    projectPath: Assets/Prefabs/Tank.prefab
+  - path: Assembly-CSharp.csproj
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Prefabs/Tile.prefab
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Prefabs/Tile.prefab
-    projectPath: Assets/Prefabs/Tile.prefab
+  - path: Assets/Prefabs/Bush.prefab
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Prefabs/Bush.prefab
+    projectPath: Assets/Prefabs/Bush.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Bush.prefab.meta
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Prefabs/Bush.prefab.meta
+    projectPath: Assets/Prefabs/Bush.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Cactus.prefab
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Prefabs/Cactus.prefab
+    projectPath: Assets/Prefabs/Cactus.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Cactus.prefab.meta
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Prefabs/Cactus.prefab.meta
+    projectPath: Assets/Prefabs/Cactus.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Stone.prefab
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Prefabs/Stone.prefab
+    projectPath: Assets/Prefabs/Stone.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/Stone.prefab.meta
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Prefabs/Stone.prefab.meta
+    projectPath: Assets/Prefabs/Stone.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/SampleScene.unity
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets/Scripts/MapGenerator.cs
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Scripts/MapGenerator.cs
+    projectPath: Assets/Scripts/MapGenerator.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/NetworkManagerCustom.cs
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Scripts/NetworkManagerCustom.cs
+    projectPath: Assets/Scripts/NetworkManagerCustom.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/ObstacleScript.cs
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Scripts/ObstacleScript.cs
+    projectPath: Assets/Scripts/ObstacleScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/ObstacleScript.cs.meta
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Scripts/ObstacleScript.cs.meta
+    projectPath: Assets/Scripts/ObstacleScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets/Scripts/TankScript.cs
     fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Scripts/TankScript.cs
     projectPath: Assets/Scripts/TankScript.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Scripts/TileScript.cs
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Scripts/TileScript.cs
-    projectPath: Assets/Scripts/TileScript.cs
+  - path: Assets/Sprites/bush_PNG7202.png
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Sprites/bush_PNG7202.png
+    projectPath: Assets/Sprites/bush_PNG7202.png
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Scripts/WallScript.cs
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Scripts/WallScript.cs
-    projectPath: Assets/Scripts/WallScript.cs
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/bush_PNG7202.png.meta
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Sprites/bush_PNG7202.png.meta
+    projectPath: Assets/Sprites/bush_PNG7202.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/cactus_PNG23643.png
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Sprites/cactus_PNG23643.png
+    projectPath: Assets/Sprites/cactus_PNG23643.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/cactus_PNG23643.png.meta
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Sprites/cactus_PNG23643.png.meta
+    projectPath: Assets/Sprites/cactus_PNG23643.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/stone_PNG13558.png
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Sprites/stone_PNG13558.png
+    projectPath: Assets/Sprites/stone_PNG13558.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/stone_PNG13558.png.meta
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Assets/Sprites/stone_PNG13558.png.meta
+    projectPath: Assets/Sprites/stone_PNG13558.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/ArtifactDB
     fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/ArtifactDB
     projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/23/23c7561c8ef061d8dd628b925d945853
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/23/23c7561c8ef061d8dd628b925d945853
-    projectPath: Library/Artifacts/23/23c7561c8ef061d8dd628b925d945853
+  - path: Library/Artifacts/02/02b747ccbed6f935b83b19539a8f0ce9
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/02/02b747ccbed6f935b83b19539a8f0ce9
+    projectPath: Library/Artifacts/02/02b747ccbed6f935b83b19539a8f0ce9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/27/27c6b2f8a8ead2cca473a9973e1bb616
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/27/27c6b2f8a8ead2cca473a9973e1bb616
-    projectPath: Library/Artifacts/27/27c6b2f8a8ead2cca473a9973e1bb616
+  - path: Library/Artifacts/06/0636a9b29cb2ce52a2f08961736cfebf
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/06/0636a9b29cb2ce52a2f08961736cfebf
+    projectPath: Library/Artifacts/06/0636a9b29cb2ce52a2f08961736cfebf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/30/30c34edf57f97eadaa2149a11d149bae
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/30/30c34edf57f97eadaa2149a11d149bae
-    projectPath: Library/Artifacts/30/30c34edf57f97eadaa2149a11d149bae
+  - path: Library/Artifacts/0a/0ac3190598a470a8c24c364a2801062b
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/0a/0ac3190598a470a8c24c364a2801062b
+    projectPath: Library/Artifacts/0a/0ac3190598a470a8c24c364a2801062b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/37/37c61c412588ab1dd874c3deecbdc482
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/37/37c61c412588ab1dd874c3deecbdc482
-    projectPath: Library/Artifacts/37/37c61c412588ab1dd874c3deecbdc482
+  - path: Library/Artifacts/13/13bc990782abd0d696bfadc9ee594d8a
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/13/13bc990782abd0d696bfadc9ee594d8a
+    projectPath: Library/Artifacts/13/13bc990782abd0d696bfadc9ee594d8a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/39/39eb6df2bda876080fd237e4aa4907d7
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/39/39eb6df2bda876080fd237e4aa4907d7
-    projectPath: Library/Artifacts/39/39eb6df2bda876080fd237e4aa4907d7
+  - path: Library/Artifacts/14/14173e59488333beaa52a44b97f00515
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/14/14173e59488333beaa52a44b97f00515
+    projectPath: Library/Artifacts/14/14173e59488333beaa52a44b97f00515
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/3b/3bce44fdf995cb722715e039324678e4
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/3b/3bce44fdf995cb722715e039324678e4
-    projectPath: Library/Artifacts/3b/3bce44fdf995cb722715e039324678e4
+  - path: Library/Artifacts/17/17c87d438021893f0f1cf8cc7912c97d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/17/17c87d438021893f0f1cf8cc7912c97d
+    projectPath: Library/Artifacts/17/17c87d438021893f0f1cf8cc7912c97d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/3b/3be8b21a01bbac430cbc0bf2142cf91a
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/3b/3be8b21a01bbac430cbc0bf2142cf91a
-    projectPath: Library/Artifacts/3b/3be8b21a01bbac430cbc0bf2142cf91a
+  - path: Library/Artifacts/19/19ed0be799ff72f3a649fd4524b6d5ef
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/19/19ed0be799ff72f3a649fd4524b6d5ef
+    projectPath: Library/Artifacts/19/19ed0be799ff72f3a649fd4524b6d5ef
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/40/40225b813e27f9bba079dbb009d4e47a
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/40/40225b813e27f9bba079dbb009d4e47a
-    projectPath: Library/Artifacts/40/40225b813e27f9bba079dbb009d4e47a
+  - path: Library/Artifacts/22/22cfc23edcdeaebcd2c5c7aa53308f5b
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/22/22cfc23edcdeaebcd2c5c7aa53308f5b
+    projectPath: Library/Artifacts/22/22cfc23edcdeaebcd2c5c7aa53308f5b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/40/40a649a299b90f28bafe41fb1ba88893
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/40/40a649a299b90f28bafe41fb1ba88893
-    projectPath: Library/Artifacts/40/40a649a299b90f28bafe41fb1ba88893
+  - path: Library/Artifacts/2f/2f7eeba1b167b2556672acc8bb8ac2af
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/2f/2f7eeba1b167b2556672acc8bb8ac2af
+    projectPath: Library/Artifacts/2f/2f7eeba1b167b2556672acc8bb8ac2af
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/42/42d74c041c619d254fb37620b087dd5a
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/42/42d74c041c619d254fb37620b087dd5a
-    projectPath: Library/Artifacts/42/42d74c041c619d254fb37620b087dd5a
+  - path: Library/Artifacts/30/307a3658c56087d476d1e23d840998f1
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/30/307a3658c56087d476d1e23d840998f1
+    projectPath: Library/Artifacts/30/307a3658c56087d476d1e23d840998f1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/55/558e7a26ac249752919a1e554af46a21
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/55/558e7a26ac249752919a1e554af46a21
-    projectPath: Library/Artifacts/55/558e7a26ac249752919a1e554af46a21
+  - path: Library/Artifacts/31/313f57b8882a5920f165fed4213d1f9f
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/31/313f57b8882a5920f165fed4213d1f9f
+    projectPath: Library/Artifacts/31/313f57b8882a5920f165fed4213d1f9f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/5b/5be5ce03ed9ce74b021b7d99fe47729c
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/5b/5be5ce03ed9ce74b021b7d99fe47729c
-    projectPath: Library/Artifacts/5b/5be5ce03ed9ce74b021b7d99fe47729c
+  - path: Library/Artifacts/33/33c7d8803e1d78f7ff556ab63818225c
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/33/33c7d8803e1d78f7ff556ab63818225c
+    projectPath: Library/Artifacts/33/33c7d8803e1d78f7ff556ab63818225c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/66/66cf7cd563eb688d98a89ae6f1346627
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/66/66cf7cd563eb688d98a89ae6f1346627
-    projectPath: Library/Artifacts/66/66cf7cd563eb688d98a89ae6f1346627
+  - path: Library/Artifacts/39/398c264d282ec60f89b22c23db106d2b
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/39/398c264d282ec60f89b22c23db106d2b
+    projectPath: Library/Artifacts/39/398c264d282ec60f89b22c23db106d2b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/70/705612c69072e2ff530a701acb5be553
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/70/705612c69072e2ff530a701acb5be553
-    projectPath: Library/Artifacts/70/705612c69072e2ff530a701acb5be553
+  - path: Library/Artifacts/39/398fee2de29ab226ffcd6908bf3741c5
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/39/398fee2de29ab226ffcd6908bf3741c5
+    projectPath: Library/Artifacts/39/398fee2de29ab226ffcd6908bf3741c5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/71/7148ba95aed3cfe289522f7f6f51d041
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/71/7148ba95aed3cfe289522f7f6f51d041
-    projectPath: Library/Artifacts/71/7148ba95aed3cfe289522f7f6f51d041
+  - path: Library/Artifacts/3b/3b9b717074f4d75ccbf8345306d84f9a
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/3b/3b9b717074f4d75ccbf8345306d84f9a
+    projectPath: Library/Artifacts/3b/3b9b717074f4d75ccbf8345306d84f9a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/75/7518667666a1f76eaab2cb94bd737fe0
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/75/7518667666a1f76eaab2cb94bd737fe0
-    projectPath: Library/Artifacts/75/7518667666a1f76eaab2cb94bd737fe0
+  - path: Library/Artifacts/40/4048eb98f00815c3dacf8b590a3d0b49
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/40/4048eb98f00815c3dacf8b590a3d0b49
+    projectPath: Library/Artifacts/40/4048eb98f00815c3dacf8b590a3d0b49
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/76/765e68521a4cc3df69cecf3639ea3908
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/76/765e68521a4cc3df69cecf3639ea3908
-    projectPath: Library/Artifacts/76/765e68521a4cc3df69cecf3639ea3908
+  - path: Library/Artifacts/40/40b43bd7fd331014205ea97d8c8b739c
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/40/40b43bd7fd331014205ea97d8c8b739c
+    projectPath: Library/Artifacts/40/40b43bd7fd331014205ea97d8c8b739c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/76/76b9d0d67c461a5dc201379693617a15
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/76/76b9d0d67c461a5dc201379693617a15
-    projectPath: Library/Artifacts/76/76b9d0d67c461a5dc201379693617a15
+  - path: Library/Artifacts/42/4280668b71fe042f7bf4893430469d6c
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/42/4280668b71fe042f7bf4893430469d6c
+    projectPath: Library/Artifacts/42/4280668b71fe042f7bf4893430469d6c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/79/79f624afcf8531e31daa49a696279c4e
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/79/79f624afcf8531e31daa49a696279c4e
-    projectPath: Library/Artifacts/79/79f624afcf8531e31daa49a696279c4e
+  - path: Library/Artifacts/45/459819111d1014ba4ab9dad9a5026e89
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/45/459819111d1014ba4ab9dad9a5026e89
+    projectPath: Library/Artifacts/45/459819111d1014ba4ab9dad9a5026e89
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/80/800c197632c780eb53b955352deebe27
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/80/800c197632c780eb53b955352deebe27
-    projectPath: Library/Artifacts/80/800c197632c780eb53b955352deebe27
+  - path: Library/Artifacts/47/47b4ec3b8d8f685559f90f16ed99e1a5
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/47/47b4ec3b8d8f685559f90f16ed99e1a5
+    projectPath: Library/Artifacts/47/47b4ec3b8d8f685559f90f16ed99e1a5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/91/9194bdaa3730ace0b643891432dc6d71
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/91/9194bdaa3730ace0b643891432dc6d71
-    projectPath: Library/Artifacts/91/9194bdaa3730ace0b643891432dc6d71
+  - path: Library/Artifacts/48/4883ee7f73525e5e28492a941bdb1a9e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/48/4883ee7f73525e5e28492a941bdb1a9e
+    projectPath: Library/Artifacts/48/4883ee7f73525e5e28492a941bdb1a9e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/92/924862b3d62363026ccf20fa6b8b7d7d
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/92/924862b3d62363026ccf20fa6b8b7d7d
-    projectPath: Library/Artifacts/92/924862b3d62363026ccf20fa6b8b7d7d
+  - path: Library/Artifacts/4c/4ca492da851c80a7a6d528276a657e3a
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/4c/4ca492da851c80a7a6d528276a657e3a
+    projectPath: Library/Artifacts/4c/4ca492da851c80a7a6d528276a657e3a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/9c/9c0e9130843ac7fa9538226f5b3fe656
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/9c/9c0e9130843ac7fa9538226f5b3fe656
-    projectPath: Library/Artifacts/9c/9c0e9130843ac7fa9538226f5b3fe656
+  - path: Library/Artifacts/50/505e9a3dc6928b669e39873a85bad299
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/50/505e9a3dc6928b669e39873a85bad299
+    projectPath: Library/Artifacts/50/505e9a3dc6928b669e39873a85bad299
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/a3/a345fca0f8abc74a3f7f665b425a7a59
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/a3/a345fca0f8abc74a3f7f665b425a7a59
-    projectPath: Library/Artifacts/a3/a345fca0f8abc74a3f7f665b425a7a59
+  - path: Library/Artifacts/52/525fe4ba86f6848d1ee4be5674cbd65a
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/52/525fe4ba86f6848d1ee4be5674cbd65a
+    projectPath: Library/Artifacts/52/525fe4ba86f6848d1ee4be5674cbd65a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ad/adf8f1b71fcec939a2969a44d669d223
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/ad/adf8f1b71fcec939a2969a44d669d223
-    projectPath: Library/Artifacts/ad/adf8f1b71fcec939a2969a44d669d223
+  - path: Library/Artifacts/52/52798b04eac53da83c607acd8c2e39f3
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/52/52798b04eac53da83c607acd8c2e39f3
+    projectPath: Library/Artifacts/52/52798b04eac53da83c607acd8c2e39f3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b8/b80d78dfd1360c340d4193cc73a3520b
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/b8/b80d78dfd1360c340d4193cc73a3520b
-    projectPath: Library/Artifacts/b8/b80d78dfd1360c340d4193cc73a3520b
+  - path: Library/Artifacts/52/52af1e2645753994017299390b264b74
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/52/52af1e2645753994017299390b264b74
+    projectPath: Library/Artifacts/52/52af1e2645753994017299390b264b74
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b9/b905fb2da6f1bc31ed8ad2f539cb0493
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/b9/b905fb2da6f1bc31ed8ad2f539cb0493
-    projectPath: Library/Artifacts/b9/b905fb2da6f1bc31ed8ad2f539cb0493
+  - path: Library/Artifacts/52/52d6e0bd506cd8ee7e16a12b0112c453
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/52/52d6e0bd506cd8ee7e16a12b0112c453
+    projectPath: Library/Artifacts/52/52d6e0bd506cd8ee7e16a12b0112c453
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b9/b9df3d5cc28f4a4d0ce9ba106743c7bf
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/b9/b9df3d5cc28f4a4d0ce9ba106743c7bf
-    projectPath: Library/Artifacts/b9/b9df3d5cc28f4a4d0ce9ba106743c7bf
+  - path: Library/Artifacts/57/57f113d8e292d6754029b3b68729d98e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/57/57f113d8e292d6754029b3b68729d98e
+    projectPath: Library/Artifacts/57/57f113d8e292d6754029b3b68729d98e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/be/be6fd1892e84fca6c3e478757d065d6c
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/be/be6fd1892e84fca6c3e478757d065d6c
-    projectPath: Library/Artifacts/be/be6fd1892e84fca6c3e478757d065d6c
+  - path: Library/Artifacts/59/5905da9817c3d6dc3073637b2bbcfaed
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/59/5905da9817c3d6dc3073637b2bbcfaed
+    projectPath: Library/Artifacts/59/5905da9817c3d6dc3073637b2bbcfaed
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/c0/c0696405567dd3919c28de8130f2d03d
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/c0/c0696405567dd3919c28de8130f2d03d
-    projectPath: Library/Artifacts/c0/c0696405567dd3919c28de8130f2d03d
+  - path: Library/Artifacts/5a/5aa3b954f2efaa9d4fa31d3ccd073e8f
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/5a/5aa3b954f2efaa9d4fa31d3ccd073e8f
+    projectPath: Library/Artifacts/5a/5aa3b954f2efaa9d4fa31d3ccd073e8f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/c5/c51463e0f2112f534dd7831b9a41472f
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/c5/c51463e0f2112f534dd7831b9a41472f
-    projectPath: Library/Artifacts/c5/c51463e0f2112f534dd7831b9a41472f
+  - path: Library/Artifacts/5a/5ad40e40de34944550199edf06985f00
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/5a/5ad40e40de34944550199edf06985f00
+    projectPath: Library/Artifacts/5a/5ad40e40de34944550199edf06985f00
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/cd/cdf4390ec5ea9d595690079e376d3587
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/cd/cdf4390ec5ea9d595690079e376d3587
-    projectPath: Library/Artifacts/cd/cdf4390ec5ea9d595690079e376d3587
+  - path: Library/Artifacts/5c/5ceeb170e57617e061c0cb81d1182b45
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/5c/5ceeb170e57617e061c0cb81d1182b45
+    projectPath: Library/Artifacts/5c/5ceeb170e57617e061c0cb81d1182b45
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ce/ce3b7abce325b5c5d3c4fc17358a3188
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/ce/ce3b7abce325b5c5d3c4fc17358a3188
-    projectPath: Library/Artifacts/ce/ce3b7abce325b5c5d3c4fc17358a3188
+  - path: Library/Artifacts/61/61a3338da7c91e3755308035d0157e8d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/61/61a3338da7c91e3755308035d0157e8d
+    projectPath: Library/Artifacts/61/61a3338da7c91e3755308035d0157e8d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/d5/d553cbc1a547f3c46c0a510574397552
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/d5/d553cbc1a547f3c46c0a510574397552
-    projectPath: Library/Artifacts/d5/d553cbc1a547f3c46c0a510574397552
+  - path: Library/Artifacts/66/66b3e2d4afe40b8cf689609b524cc426
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/66/66b3e2d4afe40b8cf689609b524cc426
+    projectPath: Library/Artifacts/66/66b3e2d4afe40b8cf689609b524cc426
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/d5/d5bd5ad9e894e7d7422916b89631e969
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/d5/d5bd5ad9e894e7d7422916b89631e969
-    projectPath: Library/Artifacts/d5/d5bd5ad9e894e7d7422916b89631e969
+  - path: Library/Artifacts/6e/6e560fbcda0fa2dad5f19c4a24e5abb2
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/6e/6e560fbcda0fa2dad5f19c4a24e5abb2
+    projectPath: Library/Artifacts/6e/6e560fbcda0fa2dad5f19c4a24e5abb2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/da/da78046a3646f7a4f3517d84bf11d94d
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/da/da78046a3646f7a4f3517d84bf11d94d
-    projectPath: Library/Artifacts/da/da78046a3646f7a4f3517d84bf11d94d
+  - path: Library/Artifacts/72/727bb9a7631f749ded8dfb05aac5177d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/72/727bb9a7631f749ded8dfb05aac5177d
+    projectPath: Library/Artifacts/72/727bb9a7631f749ded8dfb05aac5177d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/de/de915a15bf0efcbf95de26fd3b48596a
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/de/de915a15bf0efcbf95de26fd3b48596a
-    projectPath: Library/Artifacts/de/de915a15bf0efcbf95de26fd3b48596a
+  - path: Library/Artifacts/73/73d554608f1e2d245f8d8c23699dc3ce
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/73/73d554608f1e2d245f8d8c23699dc3ce
+    projectPath: Library/Artifacts/73/73d554608f1e2d245f8d8c23699dc3ce
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/e0/e09d3030ba09114c42a73a448e1779c7
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/e0/e09d3030ba09114c42a73a448e1779c7
-    projectPath: Library/Artifacts/e0/e09d3030ba09114c42a73a448e1779c7
+  - path: Library/Artifacts/76/76aa4869596beb7cec79156b2d702e04
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/76/76aa4869596beb7cec79156b2d702e04
+    projectPath: Library/Artifacts/76/76aa4869596beb7cec79156b2d702e04
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ea/eaaced297f0f89baad1f0faa647f216a
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/ea/eaaced297f0f89baad1f0faa647f216a
-    projectPath: Library/Artifacts/ea/eaaced297f0f89baad1f0faa647f216a
+  - path: Library/Artifacts/7c/7c819e80eed8202b14ed73ef598de5eb
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/7c/7c819e80eed8202b14ed73ef598de5eb
+    projectPath: Library/Artifacts/7c/7c819e80eed8202b14ed73ef598de5eb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/f0/f0b30d1a115df699b7f25ceb035c0b15
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f0/f0b30d1a115df699b7f25ceb035c0b15
-    projectPath: Library/Artifacts/f0/f0b30d1a115df699b7f25ceb035c0b15
+  - path: Library/Artifacts/7f/7f2bc04c718c755cb3b1ebbe1d275c76
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/7f/7f2bc04c718c755cb3b1ebbe1d275c76
+    projectPath: Library/Artifacts/7f/7f2bc04c718c755cb3b1ebbe1d275c76
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/f6/f687102b62e1e263e58f2b7de3255229
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f6/f687102b62e1e263e58f2b7de3255229
-    projectPath: Library/Artifacts/f6/f687102b62e1e263e58f2b7de3255229
+  - path: Library/Artifacts/81/814557d260934c5e0d36a3c8d7c4103f
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/81/814557d260934c5e0d36a3c8d7c4103f
+    projectPath: Library/Artifacts/81/814557d260934c5e0d36a3c8d7c4103f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/f9/f9938495d92d0e4d0c2a4718ecbc8231
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f9/f9938495d92d0e4d0c2a4718ecbc8231
-    projectPath: Library/Artifacts/f9/f9938495d92d0e4d0c2a4718ecbc8231
+  - path: Library/Artifacts/81/81fedf9a20f01d2f2a4d1bd9ef00cfac
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/81/81fedf9a20f01d2f2a4d1bd9ef00cfac
+    projectPath: Library/Artifacts/81/81fedf9a20f01d2f2a4d1bd9ef00cfac
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ff/ff4452e6992bfbbffec530a304918c3d
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/ff/ff4452e6992bfbbffec530a304918c3d
-    projectPath: Library/Artifacts/ff/ff4452e6992bfbbffec530a304918c3d
+  - path: Library/Artifacts/83/83a24045bbb08e9bc9ea7080118d9aba
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/83/83a24045bbb08e9bc9ea7080118d9aba
+    projectPath: Library/Artifacts/83/83a24045bbb08e9bc9ea7080118d9aba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/88/88b790038b859b73cf884a3c7a62157d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/88/88b790038b859b73cf884a3c7a62157d
+    projectPath: Library/Artifacts/88/88b790038b859b73cf884a3c7a62157d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/89/8972955be3b7f56d5ddc7a4d05dfb2a4
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/89/8972955be3b7f56d5ddc7a4d05dfb2a4
+    projectPath: Library/Artifacts/89/8972955be3b7f56d5ddc7a4d05dfb2a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8b/8bd2e2291ecd7377a1a7a91c30fe819c
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/8b/8bd2e2291ecd7377a1a7a91c30fe819c
+    projectPath: Library/Artifacts/8b/8bd2e2291ecd7377a1a7a91c30fe819c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8c/8c90c842626bc41c3cda0d4677eb4f4d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/8c/8c90c842626bc41c3cda0d4677eb4f4d
+    projectPath: Library/Artifacts/8c/8c90c842626bc41c3cda0d4677eb4f4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8c/8ce66c00813979ce3f0605d06396120b
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/8c/8ce66c00813979ce3f0605d06396120b
+    projectPath: Library/Artifacts/8c/8ce66c00813979ce3f0605d06396120b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8d/8d5c9ae33daaa1ddd6da43ecddbab78e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/8d/8d5c9ae33daaa1ddd6da43ecddbab78e
+    projectPath: Library/Artifacts/8d/8d5c9ae33daaa1ddd6da43ecddbab78e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8f/8f9cbf70283597cfa8134974f712b66c
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/8f/8f9cbf70283597cfa8134974f712b66c
+    projectPath: Library/Artifacts/8f/8f9cbf70283597cfa8134974f712b66c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8f/8fb0e7cdef04151102d99857367126cd
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/8f/8fb0e7cdef04151102d99857367126cd
+    projectPath: Library/Artifacts/8f/8fb0e7cdef04151102d99857367126cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/91/91494952dc2f26269ae6d451abef209f
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/91/91494952dc2f26269ae6d451abef209f
+    projectPath: Library/Artifacts/91/91494952dc2f26269ae6d451abef209f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/92/927476c4e66dc49d6771460434631a3b
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/92/927476c4e66dc49d6771460434631a3b
+    projectPath: Library/Artifacts/92/927476c4e66dc49d6771460434631a3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/92/92b4cab55d447ff78f4d66a375ef850e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/92/92b4cab55d447ff78f4d66a375ef850e
+    projectPath: Library/Artifacts/92/92b4cab55d447ff78f4d66a375ef850e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9a/9a410d4aa94f4dc8834636b7c8b8bfa8
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/9a/9a410d4aa94f4dc8834636b7c8b8bfa8
+    projectPath: Library/Artifacts/9a/9a410d4aa94f4dc8834636b7c8b8bfa8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9c/9cff52e4f3cbce291fb4998e92f9bc9d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/9c/9cff52e4f3cbce291fb4998e92f9bc9d
+    projectPath: Library/Artifacts/9c/9cff52e4f3cbce291fb4998e92f9bc9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a1/a1090feab20b8e1a07bb03fa030d421c
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/a1/a1090feab20b8e1a07bb03fa030d421c
+    projectPath: Library/Artifacts/a1/a1090feab20b8e1a07bb03fa030d421c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a8/a85e6090acb2c6a58a75884e0b7bb1de
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/a8/a85e6090acb2c6a58a75884e0b7bb1de
+    projectPath: Library/Artifacts/a8/a85e6090acb2c6a58a75884e0b7bb1de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a8/a8a22e971e9631f0f31a2ef61ea01b87
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/a8/a8a22e971e9631f0f31a2ef61ea01b87
+    projectPath: Library/Artifacts/a8/a8a22e971e9631f0f31a2ef61ea01b87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ab/abdfac0ae1e130610d0ba9e8b2740618
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/ab/abdfac0ae1e130610d0ba9e8b2740618
+    projectPath: Library/Artifacts/ab/abdfac0ae1e130610d0ba9e8b2740618
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b5/b575e3233f737b5eb0d70b072b5f2f29
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/b5/b575e3233f737b5eb0d70b072b5f2f29
+    projectPath: Library/Artifacts/b5/b575e3233f737b5eb0d70b072b5f2f29
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b6/b626d7d682fd9cb4811438aca535d896
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/b6/b626d7d682fd9cb4811438aca535d896
+    projectPath: Library/Artifacts/b6/b626d7d682fd9cb4811438aca535d896
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b9/b92e00e98d7b387f678ad10913fda50d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/b9/b92e00e98d7b387f678ad10913fda50d
+    projectPath: Library/Artifacts/b9/b92e00e98d7b387f678ad10913fda50d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bd/bdabd7bdd5d4b0ffa22b1020d87a3a78
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/bd/bdabd7bdd5d4b0ffa22b1020d87a3a78
+    projectPath: Library/Artifacts/bd/bdabd7bdd5d4b0ffa22b1020d87a3a78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/be/be83763053d14424372da08d49ba60e0
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/be/be83763053d14424372da08d49ba60e0
+    projectPath: Library/Artifacts/be/be83763053d14424372da08d49ba60e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bf/bfc3fbf5fd01bd73ffcdee34f046aa47
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/bf/bfc3fbf5fd01bd73ffcdee34f046aa47
+    projectPath: Library/Artifacts/bf/bfc3fbf5fd01bd73ffcdee34f046aa47
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bf/bfccdedd986ff4165050bb00c41059a0
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/bf/bfccdedd986ff4165050bb00c41059a0
+    projectPath: Library/Artifacts/bf/bfccdedd986ff4165050bb00c41059a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c0/c059a1ddb59008bb0ab18a4cf6d706b3
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/c0/c059a1ddb59008bb0ab18a4cf6d706b3
+    projectPath: Library/Artifacts/c0/c059a1ddb59008bb0ab18a4cf6d706b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c2/c2a8e7422828b19c450986c1f3bb1fd3
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/c2/c2a8e7422828b19c450986c1f3bb1fd3
+    projectPath: Library/Artifacts/c2/c2a8e7422828b19c450986c1f3bb1fd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c4/c443ec9837cdce51703ee4d080c26ce1
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/c4/c443ec9837cdce51703ee4d080c26ce1
+    projectPath: Library/Artifacts/c4/c443ec9837cdce51703ee4d080c26ce1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ca/caabb03343ffb47c1d459a2919436fc7
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/ca/caabb03343ffb47c1d459a2919436fc7
+    projectPath: Library/Artifacts/ca/caabb03343ffb47c1d459a2919436fc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ce/ce301139eba32c11e25c84d4b478762f
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/ce/ce301139eba32c11e25c84d4b478762f
+    projectPath: Library/Artifacts/ce/ce301139eba32c11e25c84d4b478762f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d4/d40e3cc01ef9c2609959469f6702aa40
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/d4/d40e3cc01ef9c2609959469f6702aa40
+    projectPath: Library/Artifacts/d4/d40e3cc01ef9c2609959469f6702aa40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d4/d477a4099c84efd4a69f10ebcb65ce7c
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/d4/d477a4099c84efd4a69f10ebcb65ce7c
+    projectPath: Library/Artifacts/d4/d477a4099c84efd4a69f10ebcb65ce7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d5/d548f9bf7911d11213893995cee94c16
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/d5/d548f9bf7911d11213893995cee94c16
+    projectPath: Library/Artifacts/d5/d548f9bf7911d11213893995cee94c16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d6/d679f1ddb2d05b5bfbde3df807d6d7ab
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/d6/d679f1ddb2d05b5bfbde3df807d6d7ab
+    projectPath: Library/Artifacts/d6/d679f1ddb2d05b5bfbde3df807d6d7ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d8/d86e4a35da8f3c48b70e087280be8a9b
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/d8/d86e4a35da8f3c48b70e087280be8a9b
+    projectPath: Library/Artifacts/d8/d86e4a35da8f3c48b70e087280be8a9b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d9/d944450e47aa4e8fd30ad23d4b6668ae
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/d9/d944450e47aa4e8fd30ad23d4b6668ae
+    projectPath: Library/Artifacts/d9/d944450e47aa4e8fd30ad23d4b6668ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d9/d99418f36a400d2acce778c47fd5d7f0
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/d9/d99418f36a400d2acce778c47fd5d7f0
+    projectPath: Library/Artifacts/d9/d99418f36a400d2acce778c47fd5d7f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e8/e8b404813727527eedac444e419fcfda
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/e8/e8b404813727527eedac444e419fcfda
+    projectPath: Library/Artifacts/e8/e8b404813727527eedac444e419fcfda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e9/e96f1a40a0f3891c7621ef433d372d98
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/e9/e96f1a40a0f3891c7621ef433d372d98
+    projectPath: Library/Artifacts/e9/e96f1a40a0f3891c7621ef433d372d98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e9/e99e32af3d9a31c4f4ad61251fd0981d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/e9/e99e32af3d9a31c4f4ad61251fd0981d
+    projectPath: Library/Artifacts/e9/e99e32af3d9a31c4f4ad61251fd0981d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f3/f3f01b3503bdafbdaccf4de02fc78f20
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f3/f3f01b3503bdafbdaccf4de02fc78f20
+    projectPath: Library/Artifacts/f3/f3f01b3503bdafbdaccf4de02fc78f20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f4/f488f1d0c055bbce9a5f2ba513ce823e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f4/f488f1d0c055bbce9a5f2ba513ce823e
+    projectPath: Library/Artifacts/f4/f488f1d0c055bbce9a5f2ba513ce823e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f5/f54cadc7c126d00a2f9429d72182d48d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f5/f54cadc7c126d00a2f9429d72182d48d
+    projectPath: Library/Artifacts/f5/f54cadc7c126d00a2f9429d72182d48d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f7/f7b2448f9c2d5407d9a9f3400b23bdcd
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f7/f7b2448f9c2d5407d9a9f3400b23bdcd
+    projectPath: Library/Artifacts/f7/f7b2448f9c2d5407d9a9f3400b23bdcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f7/f7ba44be2383da9d7aff9d13e11563e9
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f7/f7ba44be2383da9d7aff9d13e11563e9
+    projectPath: Library/Artifacts/f7/f7ba44be2383da9d7aff9d13e11563e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f7/f7f2426970e57716b4716cc09ebe9b9c
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f7/f7f2426970e57716b4716cc09ebe9b9c
+    projectPath: Library/Artifacts/f7/f7f2426970e57716b4716cc09ebe9b9c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f8/f8b9120d89f9120c3776339848b754a3
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f8/f8b9120d89f9120c3776339848b754a3
+    projectPath: Library/Artifacts/f8/f8b9120d89f9120c3776339848b754a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f9/f912904d38e2e850764b7377cd4cff84
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/f9/f912904d38e2e850764b7377cd4cff84
+    projectPath: Library/Artifacts/f9/f912904d38e2e850764b7377cd4cff84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/fc/fc71ee01d7bd8471067a52b3cb49e93a
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/Artifacts/fc/fc71ee01d7bd8471067a52b3cb49e93a
+    projectPath: Library/Artifacts/fc/fc71ee01d7bd8471067a52b3cb49e93a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -349,12 +733,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/gfu/cache/gituser.yaml
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/gfu/cache/gituser.yaml
-    projectPath: Library/gfu/cache/gituser.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -526,12 +904,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/SceneVisibilityState.asset
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/SceneVisibilityState.asset
-    projectPath: Library/SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/ScriptAssemblies/Assembly-CSharp.dll
     fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/ScriptAssemblies/Assembly-CSharp.dll
     projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
@@ -550,39 +922,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/SourceAssetDB
     fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/StateCache/Hierarchy/3e53c6-53ad38eb3e388461ba.json
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/StateCache/Hierarchy/3e53c6-53ad38eb3e388461ba.json
-    projectPath: Library/StateCache/Hierarchy/3e53c6-53ad38eb3e388461ba.json
+  - path: Library/StateCache/Hierarchy/3e53c6-2998661d443be4082b.json
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/StateCache/Hierarchy/3e53c6-2998661d443be4082b.json
+    projectPath: Library/StateCache/Hierarchy/3e53c6-2998661d443be4082b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/Hierarchy/3e53c6-mainStage.json
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/StateCache/Hierarchy/3e53c6-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/3e53c6-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/StateCache/Hierarchy/3e53c6-c4054c002bf574627b.json
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/StateCache/Hierarchy/3e53c6-c4054c002bf574627b.json
-    projectPath: Library/StateCache/Hierarchy/3e53c6-c4054c002bf574627b.json
+  - path: Library/StateCache/SceneView/10bdb9-2998661d443be4082b.json
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/StateCache/SceneView/10bdb9-2998661d443be4082b.json
+    projectPath: Library/StateCache/SceneView/10bdb9-2998661d443be4082b.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/StateCache/SceneView/10bdb9-53ad38eb3e388461ba.json
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/StateCache/SceneView/10bdb9-53ad38eb3e388461ba.json
-    projectPath: Library/StateCache/SceneView/10bdb9-53ad38eb3e388461ba.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/StateCache/SceneView/10bdb9-mainStage.json
     fullPath: /Users/olegnabereznyy/Downloads/Tanks/Library/StateCache/SceneView/10bdb9-mainStage.json
     projectPath: Library/StateCache/SceneView/10bdb9-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/QualitySettings.asset
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/ProjectSettings/QualitySettings.asset
+    projectPath: ProjectSettings/QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1318,585 +1696,657 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/UnityTempFile-03b8b086ba4ff414e87520ad069cfebc
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-03b8b086ba4ff414e87520ad069cfebc
-    projectPath: Temp/UnityTempFile-03b8b086ba4ff414e87520ad069cfebc
+  - path: Temp/UnityTempFile-00abbd3783e73481488ff97de09e295b
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-00abbd3783e73481488ff97de09e295b
+    projectPath: Temp/UnityTempFile-00abbd3783e73481488ff97de09e295b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-0eb9265f5008a48f499033047a067f97
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-0eb9265f5008a48f499033047a067f97
-    projectPath: Temp/UnityTempFile-0eb9265f5008a48f499033047a067f97
+  - path: Temp/UnityTempFile-021523f6660574ea791d400ca00f2b79
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-021523f6660574ea791d400ca00f2b79
+    projectPath: Temp/UnityTempFile-021523f6660574ea791d400ca00f2b79
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-107f034aa8f194459917e6a44e270b55
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-107f034aa8f194459917e6a44e270b55
-    projectPath: Temp/UnityTempFile-107f034aa8f194459917e6a44e270b55
+  - path: Temp/UnityTempFile-051fba8e01dbc4c0e8d5e8c3a969998e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-051fba8e01dbc4c0e8d5e8c3a969998e
+    projectPath: Temp/UnityTempFile-051fba8e01dbc4c0e8d5e8c3a969998e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-10ce7e203e7cc411ca918c377768687c
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-10ce7e203e7cc411ca918c377768687c
-    projectPath: Temp/UnityTempFile-10ce7e203e7cc411ca918c377768687c
+  - path: Temp/UnityTempFile-05da7084bcaaf412ca19855f4377dac0
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-05da7084bcaaf412ca19855f4377dac0
+    projectPath: Temp/UnityTempFile-05da7084bcaaf412ca19855f4377dac0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-12afd786b6f2f4d80babe7741e392b56
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-12afd786b6f2f4d80babe7741e392b56
-    projectPath: Temp/UnityTempFile-12afd786b6f2f4d80babe7741e392b56
+  - path: Temp/UnityTempFile-08211201dfe9242db90b0786cfd2338f
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-08211201dfe9242db90b0786cfd2338f
+    projectPath: Temp/UnityTempFile-08211201dfe9242db90b0786cfd2338f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-1868601ad07054d38b0b4dcbbd546c00
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1868601ad07054d38b0b4dcbbd546c00
-    projectPath: Temp/UnityTempFile-1868601ad07054d38b0b4dcbbd546c00
+  - path: Temp/UnityTempFile-09419455d57c149af9a4e54f7d8a97be
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-09419455d57c149af9a4e54f7d8a97be
+    projectPath: Temp/UnityTempFile-09419455d57c149af9a4e54f7d8a97be
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-18f8966fb4a9c46d4ae7f45ef277bee6
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-18f8966fb4a9c46d4ae7f45ef277bee6
-    projectPath: Temp/UnityTempFile-18f8966fb4a9c46d4ae7f45ef277bee6
+  - path: Temp/UnityTempFile-0a8e3007a60824011bde29548e2dddef
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-0a8e3007a60824011bde29548e2dddef
+    projectPath: Temp/UnityTempFile-0a8e3007a60824011bde29548e2dddef
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-190d7e50e01cf43aeaf2b3b167af8a37
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-190d7e50e01cf43aeaf2b3b167af8a37
-    projectPath: Temp/UnityTempFile-190d7e50e01cf43aeaf2b3b167af8a37
+  - path: Temp/UnityTempFile-120b4c83f7c2e4a37a2b0fa29c49d49d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-120b4c83f7c2e4a37a2b0fa29c49d49d
+    projectPath: Temp/UnityTempFile-120b4c83f7c2e4a37a2b0fa29c49d49d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-1ea8a660f8906499ea8defdbf3ed75f5
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1ea8a660f8906499ea8defdbf3ed75f5
-    projectPath: Temp/UnityTempFile-1ea8a660f8906499ea8defdbf3ed75f5
+  - path: Temp/UnityTempFile-1472b0941d6ca4fe99169244786d41d0
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1472b0941d6ca4fe99169244786d41d0
+    projectPath: Temp/UnityTempFile-1472b0941d6ca4fe99169244786d41d0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-1ebe134f73ae046dd92929e4141048ff
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1ebe134f73ae046dd92929e4141048ff
-    projectPath: Temp/UnityTempFile-1ebe134f73ae046dd92929e4141048ff
+  - path: Temp/UnityTempFile-149955c1b6f9c40d2912ddc54b0ef637
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-149955c1b6f9c40d2912ddc54b0ef637
+    projectPath: Temp/UnityTempFile-149955c1b6f9c40d2912ddc54b0ef637
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-29c60bc1cf7ad45f9a246879ddd36592
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-29c60bc1cf7ad45f9a246879ddd36592
-    projectPath: Temp/UnityTempFile-29c60bc1cf7ad45f9a246879ddd36592
+  - path: Temp/UnityTempFile-17f7e88f499bb479f87f5e9ec6022a4d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-17f7e88f499bb479f87f5e9ec6022a4d
+    projectPath: Temp/UnityTempFile-17f7e88f499bb479f87f5e9ec6022a4d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-2b14d2a48ca5a4db0be24bca284609a3
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-2b14d2a48ca5a4db0be24bca284609a3
-    projectPath: Temp/UnityTempFile-2b14d2a48ca5a4db0be24bca284609a3
+  - path: Temp/UnityTempFile-1957cbcb81fe7420a84be0d904c7d70e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1957cbcb81fe7420a84be0d904c7d70e
+    projectPath: Temp/UnityTempFile-1957cbcb81fe7420a84be0d904c7d70e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-2e9fe3f1a0df04e23aaf49e7505dbd3c
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-2e9fe3f1a0df04e23aaf49e7505dbd3c
-    projectPath: Temp/UnityTempFile-2e9fe3f1a0df04e23aaf49e7505dbd3c
+  - path: Temp/UnityTempFile-1a60ff1afd8234a28b6ef25e418cb411
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1a60ff1afd8234a28b6ef25e418cb411
+    projectPath: Temp/UnityTempFile-1a60ff1afd8234a28b6ef25e418cb411
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-314202add3f284e32afa8be0e211474b
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-314202add3f284e32afa8be0e211474b
-    projectPath: Temp/UnityTempFile-314202add3f284e32afa8be0e211474b
+  - path: Temp/UnityTempFile-1c0f4bcc0871b4fe3b7db76b5b3916db
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1c0f4bcc0871b4fe3b7db76b5b3916db
+    projectPath: Temp/UnityTempFile-1c0f4bcc0871b4fe3b7db76b5b3916db
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-3776eb7c4f03149b494b15fd2330a276
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-3776eb7c4f03149b494b15fd2330a276
-    projectPath: Temp/UnityTempFile-3776eb7c4f03149b494b15fd2330a276
+  - path: Temp/UnityTempFile-1ca7b4508f7db451e9803bf9b3ae4605
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1ca7b4508f7db451e9803bf9b3ae4605
+    projectPath: Temp/UnityTempFile-1ca7b4508f7db451e9803bf9b3ae4605
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-39fb1f63ca3e24cee96cb48a317a7ee5
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-39fb1f63ca3e24cee96cb48a317a7ee5
-    projectPath: Temp/UnityTempFile-39fb1f63ca3e24cee96cb48a317a7ee5
+  - path: Temp/UnityTempFile-1d694253dcae041a9b3692917cd03340
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1d694253dcae041a9b3692917cd03340
+    projectPath: Temp/UnityTempFile-1d694253dcae041a9b3692917cd03340
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-3a7674c4522fe41a6ab73be18278e0b3
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-3a7674c4522fe41a6ab73be18278e0b3
-    projectPath: Temp/UnityTempFile-3a7674c4522fe41a6ab73be18278e0b3
+  - path: Temp/UnityTempFile-1e067274f37e143198da52fc1d560a86
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1e067274f37e143198da52fc1d560a86
+    projectPath: Temp/UnityTempFile-1e067274f37e143198da52fc1d560a86
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-3b507cbbdab04404a97e200e7c6e21ad
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-3b507cbbdab04404a97e200e7c6e21ad
-    projectPath: Temp/UnityTempFile-3b507cbbdab04404a97e200e7c6e21ad
+  - path: Temp/UnityTempFile-1e27d07ab4cb641b8a5fb232a6943bdf
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1e27d07ab4cb641b8a5fb232a6943bdf
+    projectPath: Temp/UnityTempFile-1e27d07ab4cb641b8a5fb232a6943bdf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-3ef4950b2103141a0a7804fa3bc7f8d6
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-3ef4950b2103141a0a7804fa3bc7f8d6
-    projectPath: Temp/UnityTempFile-3ef4950b2103141a0a7804fa3bc7f8d6
+  - path: Temp/UnityTempFile-1ed4f376c1ba949eea92d823605ea028
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-1ed4f376c1ba949eea92d823605ea028
+    projectPath: Temp/UnityTempFile-1ed4f376c1ba949eea92d823605ea028
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-3faf69b0c387949b2a000344eb6f8196
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-3faf69b0c387949b2a000344eb6f8196
-    projectPath: Temp/UnityTempFile-3faf69b0c387949b2a000344eb6f8196
+  - path: Temp/UnityTempFile-22952d579d2c94d26a904442d48c2937
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-22952d579d2c94d26a904442d48c2937
+    projectPath: Temp/UnityTempFile-22952d579d2c94d26a904442d48c2937
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-423a9ee2648c04a0ca20440c3289f080
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-423a9ee2648c04a0ca20440c3289f080
-    projectPath: Temp/UnityTempFile-423a9ee2648c04a0ca20440c3289f080
+  - path: Temp/UnityTempFile-28269ec54a6e846359edcb3e222f5552
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-28269ec54a6e846359edcb3e222f5552
+    projectPath: Temp/UnityTempFile-28269ec54a6e846359edcb3e222f5552
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-46f57611d162c444d8cefa464533ff38
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-46f57611d162c444d8cefa464533ff38
-    projectPath: Temp/UnityTempFile-46f57611d162c444d8cefa464533ff38
+  - path: Temp/UnityTempFile-2970646523de84bafa8fe2fe9464cfdf
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-2970646523de84bafa8fe2fe9464cfdf
+    projectPath: Temp/UnityTempFile-2970646523de84bafa8fe2fe9464cfdf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-4727b9b8341ab486ba8ef1b4ac74d797
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-4727b9b8341ab486ba8ef1b4ac74d797
-    projectPath: Temp/UnityTempFile-4727b9b8341ab486ba8ef1b4ac74d797
+  - path: Temp/UnityTempFile-2a2f49f4ff3c241958c4842f248a40b1
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-2a2f49f4ff3c241958c4842f248a40b1
+    projectPath: Temp/UnityTempFile-2a2f49f4ff3c241958c4842f248a40b1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-48461539afed946898787e8540e94645
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-48461539afed946898787e8540e94645
-    projectPath: Temp/UnityTempFile-48461539afed946898787e8540e94645
+  - path: Temp/UnityTempFile-2daad4ae18da34e58b1607386afcc048
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-2daad4ae18da34e58b1607386afcc048
+    projectPath: Temp/UnityTempFile-2daad4ae18da34e58b1607386afcc048
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-51a794632f1b045bb987b17448f993cd
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-51a794632f1b045bb987b17448f993cd
-    projectPath: Temp/UnityTempFile-51a794632f1b045bb987b17448f993cd
+  - path: Temp/UnityTempFile-2df7034c596ef4932b87127269012789
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-2df7034c596ef4932b87127269012789
+    projectPath: Temp/UnityTempFile-2df7034c596ef4932b87127269012789
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-5489d7b7c093d4fc2af673c5b07fddf4
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-5489d7b7c093d4fc2af673c5b07fddf4
-    projectPath: Temp/UnityTempFile-5489d7b7c093d4fc2af673c5b07fddf4
+  - path: Temp/UnityTempFile-338cd1879a8994859a468d49d4c230ec
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-338cd1879a8994859a468d49d4c230ec
+    projectPath: Temp/UnityTempFile-338cd1879a8994859a468d49d4c230ec
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-59f7c95492dd14b8db3558594f41e0da
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-59f7c95492dd14b8db3558594f41e0da
-    projectPath: Temp/UnityTempFile-59f7c95492dd14b8db3558594f41e0da
+  - path: Temp/UnityTempFile-343f5835f355d4d5ea14b952db0fae65
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-343f5835f355d4d5ea14b952db0fae65
+    projectPath: Temp/UnityTempFile-343f5835f355d4d5ea14b952db0fae65
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-66e29f45a21ea4a4097f466930ab3cae
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-66e29f45a21ea4a4097f466930ab3cae
-    projectPath: Temp/UnityTempFile-66e29f45a21ea4a4097f466930ab3cae
+  - path: Temp/UnityTempFile-3900e95a7cab14c3a86ca14474785146
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-3900e95a7cab14c3a86ca14474785146
+    projectPath: Temp/UnityTempFile-3900e95a7cab14c3a86ca14474785146
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-6934b18e00bef482ab91550455fc7647
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-6934b18e00bef482ab91550455fc7647
-    projectPath: Temp/UnityTempFile-6934b18e00bef482ab91550455fc7647
+  - path: Temp/UnityTempFile-3efb79a108a974b848f5cfbe7a701114
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-3efb79a108a974b848f5cfbe7a701114
+    projectPath: Temp/UnityTempFile-3efb79a108a974b848f5cfbe7a701114
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-6cb93c2e8a2064c9f94225ee14290731
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-6cb93c2e8a2064c9f94225ee14290731
-    projectPath: Temp/UnityTempFile-6cb93c2e8a2064c9f94225ee14290731
+  - path: Temp/UnityTempFile-3f2846be580924497827a96926573661
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-3f2846be580924497827a96926573661
+    projectPath: Temp/UnityTempFile-3f2846be580924497827a96926573661
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-73c990f809e1a427d806a29938639ac3
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-73c990f809e1a427d806a29938639ac3
-    projectPath: Temp/UnityTempFile-73c990f809e1a427d806a29938639ac3
+  - path: Temp/UnityTempFile-402515ac30897419c8e58af54d63a833
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-402515ac30897419c8e58af54d63a833
+    projectPath: Temp/UnityTempFile-402515ac30897419c8e58af54d63a833
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-762324f54444d48d98b63cb4cb825c61
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-762324f54444d48d98b63cb4cb825c61
-    projectPath: Temp/UnityTempFile-762324f54444d48d98b63cb4cb825c61
+  - path: Temp/UnityTempFile-449e9e6ee40274b2cbbbecac8a36e631
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-449e9e6ee40274b2cbbbecac8a36e631
+    projectPath: Temp/UnityTempFile-449e9e6ee40274b2cbbbecac8a36e631
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-7623524cea2554b808a298ab410ce0ce
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-7623524cea2554b808a298ab410ce0ce
-    projectPath: Temp/UnityTempFile-7623524cea2554b808a298ab410ce0ce
+  - path: Temp/UnityTempFile-458c78fa66d714f97acc186d6f5fa710
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-458c78fa66d714f97acc186d6f5fa710
+    projectPath: Temp/UnityTempFile-458c78fa66d714f97acc186d6f5fa710
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-784986b57623e451ab190424f915eb79
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-784986b57623e451ab190424f915eb79
-    projectPath: Temp/UnityTempFile-784986b57623e451ab190424f915eb79
+  - path: Temp/UnityTempFile-4787e4e8aadd44f53b062fa2ab67caed
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-4787e4e8aadd44f53b062fa2ab67caed
+    projectPath: Temp/UnityTempFile-4787e4e8aadd44f53b062fa2ab67caed
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-78eda5ec486dc4bc98b44db97da8495b
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-78eda5ec486dc4bc98b44db97da8495b
-    projectPath: Temp/UnityTempFile-78eda5ec486dc4bc98b44db97da8495b
+  - path: Temp/UnityTempFile-47d83c3cb84834e0cae6f45ece5cab89
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-47d83c3cb84834e0cae6f45ece5cab89
+    projectPath: Temp/UnityTempFile-47d83c3cb84834e0cae6f45ece5cab89
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-7a400872dca3f482dace9d36c6079b89
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-7a400872dca3f482dace9d36c6079b89
-    projectPath: Temp/UnityTempFile-7a400872dca3f482dace9d36c6079b89
+  - path: Temp/UnityTempFile-4aaced60ff0504e16a9f7b31363a9bba
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-4aaced60ff0504e16a9f7b31363a9bba
+    projectPath: Temp/UnityTempFile-4aaced60ff0504e16a9f7b31363a9bba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-7ce26e2127d0245bd9ae97d579b45f04
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-7ce26e2127d0245bd9ae97d579b45f04
-    projectPath: Temp/UnityTempFile-7ce26e2127d0245bd9ae97d579b45f04
+  - path: Temp/UnityTempFile-4db263b4d09fe427687b58ef1647d79f
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-4db263b4d09fe427687b58ef1647d79f
+    projectPath: Temp/UnityTempFile-4db263b4d09fe427687b58ef1647d79f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-807f63c29c0f14256bc842948034c7db
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-807f63c29c0f14256bc842948034c7db
-    projectPath: Temp/UnityTempFile-807f63c29c0f14256bc842948034c7db
+  - path: Temp/UnityTempFile-4e385507d012a46389691605cc4d7b82
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-4e385507d012a46389691605cc4d7b82
+    projectPath: Temp/UnityTempFile-4e385507d012a46389691605cc4d7b82
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-84a7d64103dc54ae7b44c8a32335fe49
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-84a7d64103dc54ae7b44c8a32335fe49
-    projectPath: Temp/UnityTempFile-84a7d64103dc54ae7b44c8a32335fe49
+  - path: Temp/UnityTempFile-4f273552a01854647a016c0c659b8a64
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-4f273552a01854647a016c0c659b8a64
+    projectPath: Temp/UnityTempFile-4f273552a01854647a016c0c659b8a64
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-8504e502eb36047919ec8b84581fd8c4
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-8504e502eb36047919ec8b84581fd8c4
-    projectPath: Temp/UnityTempFile-8504e502eb36047919ec8b84581fd8c4
+  - path: Temp/UnityTempFile-56923b1c09cf2414c86195fbca982482
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-56923b1c09cf2414c86195fbca982482
+    projectPath: Temp/UnityTempFile-56923b1c09cf2414c86195fbca982482
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-86e5172fa5a95499281e75336cd8a2cd
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-86e5172fa5a95499281e75336cd8a2cd
-    projectPath: Temp/UnityTempFile-86e5172fa5a95499281e75336cd8a2cd
+  - path: Temp/UnityTempFile-5a087e855059943bb995686fe25f7094
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-5a087e855059943bb995686fe25f7094
+    projectPath: Temp/UnityTempFile-5a087e855059943bb995686fe25f7094
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-872239a545ebb414989b6dd279c20f58
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-872239a545ebb414989b6dd279c20f58
-    projectPath: Temp/UnityTempFile-872239a545ebb414989b6dd279c20f58
+  - path: Temp/UnityTempFile-5acb8a0aff79a489dbcc1edbd9f00e8a
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-5acb8a0aff79a489dbcc1edbd9f00e8a
+    projectPath: Temp/UnityTempFile-5acb8a0aff79a489dbcc1edbd9f00e8a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-88d3c573548a543449f69f2e5ba41ede
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-88d3c573548a543449f69f2e5ba41ede
-    projectPath: Temp/UnityTempFile-88d3c573548a543449f69f2e5ba41ede
+  - path: Temp/UnityTempFile-5c77552f03e55427d878aabed0350ae1
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-5c77552f03e55427d878aabed0350ae1
+    projectPath: Temp/UnityTempFile-5c77552f03e55427d878aabed0350ae1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-920ef2e5882534936801b8016142cef3
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-920ef2e5882534936801b8016142cef3
-    projectPath: Temp/UnityTempFile-920ef2e5882534936801b8016142cef3
+  - path: Temp/UnityTempFile-5ce9a8755557d4a119bc35afd7c401f2
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-5ce9a8755557d4a119bc35afd7c401f2
+    projectPath: Temp/UnityTempFile-5ce9a8755557d4a119bc35afd7c401f2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-93849872993834b0295081f9ef11dd92
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-93849872993834b0295081f9ef11dd92
-    projectPath: Temp/UnityTempFile-93849872993834b0295081f9ef11dd92
+  - path: Temp/UnityTempFile-5df03ee7cc52f4bf1b8b9ae8e717a2ca
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-5df03ee7cc52f4bf1b8b9ae8e717a2ca
+    projectPath: Temp/UnityTempFile-5df03ee7cc52f4bf1b8b9ae8e717a2ca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-9d14b5a56b5c8487c8a70f74bf81634f
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-9d14b5a56b5c8487c8a70f74bf81634f
-    projectPath: Temp/UnityTempFile-9d14b5a56b5c8487c8a70f74bf81634f
+  - path: Temp/UnityTempFile-5fdea9cfc0d3445b7b8252f2a0bc5abb
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-5fdea9cfc0d3445b7b8252f2a0bc5abb
+    projectPath: Temp/UnityTempFile-5fdea9cfc0d3445b7b8252f2a0bc5abb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-a24627e24205f4fba8a2f6630c099810
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-a24627e24205f4fba8a2f6630c099810
-    projectPath: Temp/UnityTempFile-a24627e24205f4fba8a2f6630c099810
+  - path: Temp/UnityTempFile-620e6e94762fc46ab9719c7ac90d556a
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-620e6e94762fc46ab9719c7ac90d556a
+    projectPath: Temp/UnityTempFile-620e6e94762fc46ab9719c7ac90d556a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-a7413c5e796654c9ea09549343d93f83
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-a7413c5e796654c9ea09549343d93f83
-    projectPath: Temp/UnityTempFile-a7413c5e796654c9ea09549343d93f83
+  - path: Temp/UnityTempFile-6274fe57c252d4299870e1c1d0e094aa
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-6274fe57c252d4299870e1c1d0e094aa
+    projectPath: Temp/UnityTempFile-6274fe57c252d4299870e1c1d0e094aa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-a7b02ebeb0ac1445690132b712e5302a
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-a7b02ebeb0ac1445690132b712e5302a
-    projectPath: Temp/UnityTempFile-a7b02ebeb0ac1445690132b712e5302a
+  - path: Temp/UnityTempFile-62930c05ba2ae4f6e96de10ef47d54ce
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-62930c05ba2ae4f6e96de10ef47d54ce
+    projectPath: Temp/UnityTempFile-62930c05ba2ae4f6e96de10ef47d54ce
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ab8435257a08244b080afa1967e181d0
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ab8435257a08244b080afa1967e181d0
-    projectPath: Temp/UnityTempFile-ab8435257a08244b080afa1967e181d0
+  - path: Temp/UnityTempFile-66f2838fb858e4a539ecb4c9f1e65f1b
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-66f2838fb858e4a539ecb4c9f1e65f1b
+    projectPath: Temp/UnityTempFile-66f2838fb858e4a539ecb4c9f1e65f1b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ab90472fac9e147ecb9b21b5f284b773
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ab90472fac9e147ecb9b21b5f284b773
-    projectPath: Temp/UnityTempFile-ab90472fac9e147ecb9b21b5f284b773
+  - path: Temp/UnityTempFile-67e77a8b2dcd041c19f6d9ae679004ce
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-67e77a8b2dcd041c19f6d9ae679004ce
+    projectPath: Temp/UnityTempFile-67e77a8b2dcd041c19f6d9ae679004ce
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-b03766b8475a34533837979d0ec5644c
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b03766b8475a34533837979d0ec5644c
-    projectPath: Temp/UnityTempFile-b03766b8475a34533837979d0ec5644c
+  - path: Temp/UnityTempFile-6932e73b95fd0417aa6c421c91df7d01
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-6932e73b95fd0417aa6c421c91df7d01
+    projectPath: Temp/UnityTempFile-6932e73b95fd0417aa6c421c91df7d01
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-b1cb461ab241445fa9f1149fd8a42506
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b1cb461ab241445fa9f1149fd8a42506
-    projectPath: Temp/UnityTempFile-b1cb461ab241445fa9f1149fd8a42506
+  - path: Temp/UnityTempFile-6b0a9a8f6a7c64649ad4ed492cbff423
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-6b0a9a8f6a7c64649ad4ed492cbff423
+    projectPath: Temp/UnityTempFile-6b0a9a8f6a7c64649ad4ed492cbff423
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-b493ca3a5c1164416ae9afd2c25ed886
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b493ca3a5c1164416ae9afd2c25ed886
-    projectPath: Temp/UnityTempFile-b493ca3a5c1164416ae9afd2c25ed886
+  - path: Temp/UnityTempFile-6bfe6b3d555d24d238e24bb2286690e9
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-6bfe6b3d555d24d238e24bb2286690e9
+    projectPath: Temp/UnityTempFile-6bfe6b3d555d24d238e24bb2286690e9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-b4aff1e947bfb4343a7dbc2574df64e8
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b4aff1e947bfb4343a7dbc2574df64e8
-    projectPath: Temp/UnityTempFile-b4aff1e947bfb4343a7dbc2574df64e8
+  - path: Temp/UnityTempFile-6ea38b7c9de984af7a502f24014b80e5
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-6ea38b7c9de984af7a502f24014b80e5
+    projectPath: Temp/UnityTempFile-6ea38b7c9de984af7a502f24014b80e5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-b5d3dfef4388b4e788c82f76271408f1
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b5d3dfef4388b4e788c82f76271408f1
-    projectPath: Temp/UnityTempFile-b5d3dfef4388b4e788c82f76271408f1
+  - path: Temp/UnityTempFile-76a97228134264986a6c16cf7ea4548f
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-76a97228134264986a6c16cf7ea4548f
+    projectPath: Temp/UnityTempFile-76a97228134264986a6c16cf7ea4548f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-b70e90254f2f549ea9354a4ee1ffdc30
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b70e90254f2f549ea9354a4ee1ffdc30
-    projectPath: Temp/UnityTempFile-b70e90254f2f549ea9354a4ee1ffdc30
+  - path: Temp/UnityTempFile-79aa5be4aae734e50beaba3b9745e04e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-79aa5be4aae734e50beaba3b9745e04e
+    projectPath: Temp/UnityTempFile-79aa5be4aae734e50beaba3b9745e04e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-b764f4ce1a9b345f7afd16435f85b7d9
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b764f4ce1a9b345f7afd16435f85b7d9
-    projectPath: Temp/UnityTempFile-b764f4ce1a9b345f7afd16435f85b7d9
+  - path: Temp/UnityTempFile-7b830b971961940c1a4dba0a0ef673a0
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-7b830b971961940c1a4dba0a0ef673a0
+    projectPath: Temp/UnityTempFile-7b830b971961940c1a4dba0a0ef673a0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-b807e8eb3ee404ff5878c2bf57dcebba
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b807e8eb3ee404ff5878c2bf57dcebba
-    projectPath: Temp/UnityTempFile-b807e8eb3ee404ff5878c2bf57dcebba
+  - path: Temp/UnityTempFile-7cdf81a4106cc45caa3bc50fe1c77e17
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-7cdf81a4106cc45caa3bc50fe1c77e17
+    projectPath: Temp/UnityTempFile-7cdf81a4106cc45caa3bc50fe1c77e17
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-bbc8804acc5ef456c9eb8b056daf2b4b
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-bbc8804acc5ef456c9eb8b056daf2b4b
-    projectPath: Temp/UnityTempFile-bbc8804acc5ef456c9eb8b056daf2b4b
+  - path: Temp/UnityTempFile-7dd1d0189636d42ccb57e5518c01257e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-7dd1d0189636d42ccb57e5518c01257e
+    projectPath: Temp/UnityTempFile-7dd1d0189636d42ccb57e5518c01257e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-bc812b00969094f5497876ac1311323a
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-bc812b00969094f5497876ac1311323a
-    projectPath: Temp/UnityTempFile-bc812b00969094f5497876ac1311323a
+  - path: Temp/UnityTempFile-863b73a829c3f480aa490ef480fc0b82
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-863b73a829c3f480aa490ef480fc0b82
+    projectPath: Temp/UnityTempFile-863b73a829c3f480aa490ef480fc0b82
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-beaca568885bf4fc3ab3038c6a5a7f7d
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-beaca568885bf4fc3ab3038c6a5a7f7d
-    projectPath: Temp/UnityTempFile-beaca568885bf4fc3ab3038c6a5a7f7d
+  - path: Temp/UnityTempFile-8789d0305e7954ebb9a75ac3694faf21
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-8789d0305e7954ebb9a75ac3694faf21
+    projectPath: Temp/UnityTempFile-8789d0305e7954ebb9a75ac3694faf21
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-c7f85cc1ba66e492487bbbfdeb98544f
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-c7f85cc1ba66e492487bbbfdeb98544f
-    projectPath: Temp/UnityTempFile-c7f85cc1ba66e492487bbbfdeb98544f
+  - path: Temp/UnityTempFile-88f30fdb8efae45098852c9786c70ac9
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-88f30fdb8efae45098852c9786c70ac9
+    projectPath: Temp/UnityTempFile-88f30fdb8efae45098852c9786c70ac9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-c887bd295b9f740f19e7329ea5dc09de
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-c887bd295b9f740f19e7329ea5dc09de
-    projectPath: Temp/UnityTempFile-c887bd295b9f740f19e7329ea5dc09de
+  - path: Temp/UnityTempFile-8d5a5b91dae9644559514b2df0b99fdc
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-8d5a5b91dae9644559514b2df0b99fdc
+    projectPath: Temp/UnityTempFile-8d5a5b91dae9644559514b2df0b99fdc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-c9928ab7dedd349a7a898ed9890dbda9
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-c9928ab7dedd349a7a898ed9890dbda9
-    projectPath: Temp/UnityTempFile-c9928ab7dedd349a7a898ed9890dbda9
+  - path: Temp/UnityTempFile-9289b42b2d3934227a3a2e7342786bec
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-9289b42b2d3934227a3a2e7342786bec
+    projectPath: Temp/UnityTempFile-9289b42b2d3934227a3a2e7342786bec
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ca77c3cd9586c48a780c37462c8b98cb
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ca77c3cd9586c48a780c37462c8b98cb
-    projectPath: Temp/UnityTempFile-ca77c3cd9586c48a780c37462c8b98cb
+  - path: Temp/UnityTempFile-9467314db717b460c9d27ff32ca058ce
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-9467314db717b460c9d27ff32ca058ce
+    projectPath: Temp/UnityTempFile-9467314db717b460c9d27ff32ca058ce
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-cc869b82ebfce475686a8626c2673f76
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-cc869b82ebfce475686a8626c2673f76
-    projectPath: Temp/UnityTempFile-cc869b82ebfce475686a8626c2673f76
+  - path: Temp/UnityTempFile-970504a71fb9040d686e2233a1388ab9
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-970504a71fb9040d686e2233a1388ab9
+    projectPath: Temp/UnityTempFile-970504a71fb9040d686e2233a1388ab9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-cdf1a465873424440ab388014b0aa742
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-cdf1a465873424440ab388014b0aa742
-    projectPath: Temp/UnityTempFile-cdf1a465873424440ab388014b0aa742
+  - path: Temp/UnityTempFile-971bf9ed6b3bf49e7841e2386fe66221
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-971bf9ed6b3bf49e7841e2386fe66221
+    projectPath: Temp/UnityTempFile-971bf9ed6b3bf49e7841e2386fe66221
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ce2e67998a56c44c09b7acb3692f97ff
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ce2e67998a56c44c09b7acb3692f97ff
-    projectPath: Temp/UnityTempFile-ce2e67998a56c44c09b7acb3692f97ff
+  - path: Temp/UnityTempFile-9aa488fa8e6a54dc1a9a2707f0787bf9
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-9aa488fa8e6a54dc1a9a2707f0787bf9
+    projectPath: Temp/UnityTempFile-9aa488fa8e6a54dc1a9a2707f0787bf9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-cf15f7de4a643476182e1f1cb0d10b8a
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-cf15f7de4a643476182e1f1cb0d10b8a
-    projectPath: Temp/UnityTempFile-cf15f7de4a643476182e1f1cb0d10b8a
+  - path: Temp/UnityTempFile-9e32f2823f149416aa8381c835c819ea
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-9e32f2823f149416aa8381c835c819ea
+    projectPath: Temp/UnityTempFile-9e32f2823f149416aa8381c835c819ea
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-cf7523ee3b1194f739540b13812aa90b
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-cf7523ee3b1194f739540b13812aa90b
-    projectPath: Temp/UnityTempFile-cf7523ee3b1194f739540b13812aa90b
+  - path: Temp/UnityTempFile-a4e598f74a46e40c593076957006f90c
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-a4e598f74a46e40c593076957006f90c
+    projectPath: Temp/UnityTempFile-a4e598f74a46e40c593076957006f90c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-d391adb6a7b9e47a1800ccf899ab8b93
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-d391adb6a7b9e47a1800ccf899ab8b93
-    projectPath: Temp/UnityTempFile-d391adb6a7b9e47a1800ccf899ab8b93
+  - path: Temp/UnityTempFile-a89044fba79034a879fe839564441ded
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-a89044fba79034a879fe839564441ded
+    projectPath: Temp/UnityTempFile-a89044fba79034a879fe839564441ded
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-d5a2b9e31430145aa8d8149ed9fb2802
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-d5a2b9e31430145aa8d8149ed9fb2802
-    projectPath: Temp/UnityTempFile-d5a2b9e31430145aa8d8149ed9fb2802
+  - path: Temp/UnityTempFile-aa793e075272f41658190c37e77b75c8
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-aa793e075272f41658190c37e77b75c8
+    projectPath: Temp/UnityTempFile-aa793e075272f41658190c37e77b75c8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-d6a9d316c6f8e4f9dbdc766ed9369df0
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-d6a9d316c6f8e4f9dbdc766ed9369df0
-    projectPath: Temp/UnityTempFile-d6a9d316c6f8e4f9dbdc766ed9369df0
+  - path: Temp/UnityTempFile-ab38924ae89ab4ed7bd13eb713b02fe8
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ab38924ae89ab4ed7bd13eb713b02fe8
+    projectPath: Temp/UnityTempFile-ab38924ae89ab4ed7bd13eb713b02fe8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-d7383a33a97244f5687189bd0df02750
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-d7383a33a97244f5687189bd0df02750
-    projectPath: Temp/UnityTempFile-d7383a33a97244f5687189bd0df02750
+  - path: Temp/UnityTempFile-ad3856302a6e54b2faf9dce580d2df8e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ad3856302a6e54b2faf9dce580d2df8e
+    projectPath: Temp/UnityTempFile-ad3856302a6e54b2faf9dce580d2df8e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-d966015b0f89d496cb39fe2fbdc2c705
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-d966015b0f89d496cb39fe2fbdc2c705
-    projectPath: Temp/UnityTempFile-d966015b0f89d496cb39fe2fbdc2c705
+  - path: Temp/UnityTempFile-ada5cc949dacf4f9aba32c5ad2f0dc8e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ada5cc949dacf4f9aba32c5ad2f0dc8e
+    projectPath: Temp/UnityTempFile-ada5cc949dacf4f9aba32c5ad2f0dc8e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-d9bade7cea28c4653a9791823cbf24ea
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-d9bade7cea28c4653a9791823cbf24ea
-    projectPath: Temp/UnityTempFile-d9bade7cea28c4653a9791823cbf24ea
+  - path: Temp/UnityTempFile-aeb946f4d3af14de5a7553f584fe6983
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-aeb946f4d3af14de5a7553f584fe6983
+    projectPath: Temp/UnityTempFile-aeb946f4d3af14de5a7553f584fe6983
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-da316e212dbb24b41b7a0aa2d0930ee8
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-da316e212dbb24b41b7a0aa2d0930ee8
-    projectPath: Temp/UnityTempFile-da316e212dbb24b41b7a0aa2d0930ee8
+  - path: Temp/UnityTempFile-b13b4c1a773494953bcd687dc442fe14
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b13b4c1a773494953bcd687dc442fe14
+    projectPath: Temp/UnityTempFile-b13b4c1a773494953bcd687dc442fe14
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-dc360b61842d544c5bc62f2f27f18692
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-dc360b61842d544c5bc62f2f27f18692
-    projectPath: Temp/UnityTempFile-dc360b61842d544c5bc62f2f27f18692
+  - path: Temp/UnityTempFile-b67ff9a8be06e43129bdcb5b9433c9d7
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b67ff9a8be06e43129bdcb5b9433c9d7
+    projectPath: Temp/UnityTempFile-b67ff9a8be06e43129bdcb5b9433c9d7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-de7fbe5797b204dbea360e05635d3398
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-de7fbe5797b204dbea360e05635d3398
-    projectPath: Temp/UnityTempFile-de7fbe5797b204dbea360e05635d3398
+  - path: Temp/UnityTempFile-b7c06e3654c1b44878c30f6f1dc155a4
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b7c06e3654c1b44878c30f6f1dc155a4
+    projectPath: Temp/UnityTempFile-b7c06e3654c1b44878c30f6f1dc155a4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e05592f8130f743d8be648f51b4016af
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e05592f8130f743d8be648f51b4016af
-    projectPath: Temp/UnityTempFile-e05592f8130f743d8be648f51b4016af
+  - path: Temp/UnityTempFile-b7de7a555da3b4269b58aafc693bd89d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b7de7a555da3b4269b58aafc693bd89d
+    projectPath: Temp/UnityTempFile-b7de7a555da3b4269b58aafc693bd89d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e198f54eb894a4a1580427971df78cf9
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e198f54eb894a4a1580427971df78cf9
-    projectPath: Temp/UnityTempFile-e198f54eb894a4a1580427971df78cf9
+  - path: Temp/UnityTempFile-b96247593e3eb490e9bae23b0925f27e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-b96247593e3eb490e9bae23b0925f27e
+    projectPath: Temp/UnityTempFile-b96247593e3eb490e9bae23b0925f27e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e1e8be4d64f5945b2b809e1606ae2fdf
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e1e8be4d64f5945b2b809e1606ae2fdf
-    projectPath: Temp/UnityTempFile-e1e8be4d64f5945b2b809e1606ae2fdf
+  - path: Temp/UnityTempFile-bb67900ad940b42aaa34cad47b0e5e68
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-bb67900ad940b42aaa34cad47b0e5e68
+    projectPath: Temp/UnityTempFile-bb67900ad940b42aaa34cad47b0e5e68
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e31a1782c091e481c964bbf6713c174e
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e31a1782c091e481c964bbf6713c174e
-    projectPath: Temp/UnityTempFile-e31a1782c091e481c964bbf6713c174e
+  - path: Temp/UnityTempFile-be0102ad0918b4e4e860388a06f1548e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-be0102ad0918b4e4e860388a06f1548e
+    projectPath: Temp/UnityTempFile-be0102ad0918b4e4e860388a06f1548e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e4642d0291b684ec1b6693f79d861bb3
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e4642d0291b684ec1b6693f79d861bb3
-    projectPath: Temp/UnityTempFile-e4642d0291b684ec1b6693f79d861bb3
+  - path: Temp/UnityTempFile-bf0b6bcac1a4c4425a167a72c49e127e
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-bf0b6bcac1a4c4425a167a72c49e127e
+    projectPath: Temp/UnityTempFile-bf0b6bcac1a4c4425a167a72c49e127e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e55d72dace2254afda20dee6deabf0d5
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e55d72dace2254afda20dee6deabf0d5
-    projectPath: Temp/UnityTempFile-e55d72dace2254afda20dee6deabf0d5
+  - path: Temp/UnityTempFile-bf7d1cf36a05d477fabff56563b9a31c
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-bf7d1cf36a05d477fabff56563b9a31c
+    projectPath: Temp/UnityTempFile-bf7d1cf36a05d477fabff56563b9a31c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e7848d0c85b344d3999ae44d1f60b636
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e7848d0c85b344d3999ae44d1f60b636
-    projectPath: Temp/UnityTempFile-e7848d0c85b344d3999ae44d1f60b636
+  - path: Temp/UnityTempFile-c5ef2807f73ad466bb987df8cf182a02
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-c5ef2807f73ad466bb987df8cf182a02
+    projectPath: Temp/UnityTempFile-c5ef2807f73ad466bb987df8cf182a02
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e96f05644b1374cddb8769674c9ba5d4
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e96f05644b1374cddb8769674c9ba5d4
-    projectPath: Temp/UnityTempFile-e96f05644b1374cddb8769674c9ba5d4
+  - path: Temp/UnityTempFile-c5f3a47e02e304d0a9a96cf8b10b2670
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-c5f3a47e02e304d0a9a96cf8b10b2670
+    projectPath: Temp/UnityTempFile-c5f3a47e02e304d0a9a96cf8b10b2670
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ea4b83565377f46f8a8de6b5d0186836
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ea4b83565377f46f8a8de6b5d0186836
-    projectPath: Temp/UnityTempFile-ea4b83565377f46f8a8de6b5d0186836
+  - path: Temp/UnityTempFile-c6a306ada4ae749f3899a01f5d176094
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-c6a306ada4ae749f3899a01f5d176094
+    projectPath: Temp/UnityTempFile-c6a306ada4ae749f3899a01f5d176094
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ee253925a20d94d23bda6e105bfbed34
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ee253925a20d94d23bda6e105bfbed34
-    projectPath: Temp/UnityTempFile-ee253925a20d94d23bda6e105bfbed34
+  - path: Temp/UnityTempFile-c6b82a2bd1da045beac6f92411e0a20a
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-c6b82a2bd1da045beac6f92411e0a20a
+    projectPath: Temp/UnityTempFile-c6b82a2bd1da045beac6f92411e0a20a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-f1191bb1ad163478aa8c14ae61894abc
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-f1191bb1ad163478aa8c14ae61894abc
-    projectPath: Temp/UnityTempFile-f1191bb1ad163478aa8c14ae61894abc
+  - path: Temp/UnityTempFile-c92f3210738074480b575b3e15850e37
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-c92f3210738074480b575b3e15850e37
+    projectPath: Temp/UnityTempFile-c92f3210738074480b575b3e15850e37
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-f2e81dc354aa1423e9bfa75d3e70ca75
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-f2e81dc354aa1423e9bfa75d3e70ca75
-    projectPath: Temp/UnityTempFile-f2e81dc354aa1423e9bfa75d3e70ca75
+  - path: Temp/UnityTempFile-c9d7b4d4e418e4c5cb3ff7dde0d7f988
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-c9d7b4d4e418e4c5cb3ff7dde0d7f988
+    projectPath: Temp/UnityTempFile-c9d7b4d4e418e4c5cb3ff7dde0d7f988
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-f33af4af4442b4af9ac4e88f2fffeabb
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-f33af4af4442b4af9ac4e88f2fffeabb
-    projectPath: Temp/UnityTempFile-f33af4af4442b4af9ac4e88f2fffeabb
+  - path: Temp/UnityTempFile-c9f7c2d2a582a467d857ba4933cdd588
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-c9f7c2d2a582a467d857ba4933cdd588
+    projectPath: Temp/UnityTempFile-c9f7c2d2a582a467d857ba4933cdd588
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-f8ebfcdfc21744d00935b56c9de5d9cf
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-f8ebfcdfc21744d00935b56c9de5d9cf
-    projectPath: Temp/UnityTempFile-f8ebfcdfc21744d00935b56c9de5d9cf
+  - path: Temp/UnityTempFile-ca87940de5394479b9e9a9c4bc762a86
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ca87940de5394479b9e9a9c4bc762a86
+    projectPath: Temp/UnityTempFile-ca87940de5394479b9e9a9c4bc762a86
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-fbefb301dfcf641718306184f53f2fa7
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-fbefb301dfcf641718306184f53f2fa7
-    projectPath: Temp/UnityTempFile-fbefb301dfcf641718306184f53f2fa7
+  - path: Temp/UnityTempFile-d26e322b32253437789d69ce59613de8
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-d26e322b32253437789d69ce59613de8
+    projectPath: Temp/UnityTempFile-d26e322b32253437789d69ce59613de8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-fd099c504594b42dc8df3152dc7b4f44
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-fd099c504594b42dc8df3152dc7b4f44
-    projectPath: Temp/UnityTempFile-fd099c504594b42dc8df3152dc7b4f44
+  - path: Temp/UnityTempFile-d484d5a4170f9449ca088bc801046bd6
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-d484d5a4170f9449ca088bc801046bd6
+    projectPath: Temp/UnityTempFile-d484d5a4170f9449ca088bc801046bd6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ff7bb89b9538c4b00ba42b81a57279c9
-    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ff7bb89b9538c4b00ba42b81a57279c9
-    projectPath: Temp/UnityTempFile-ff7bb89b9538c4b00ba42b81a57279c9
+  - path: Temp/UnityTempFile-d717b60db074b44dcb358f9558455821
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-d717b60db074b44dcb358f9558455821
+    projectPath: Temp/UnityTempFile-d717b60db074b44dcb358f9558455821
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-dc6feee292fba4b80859e5cf65f061f8
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-dc6feee292fba4b80859e5cf65f061f8
+    projectPath: Temp/UnityTempFile-dc6feee292fba4b80859e5cf65f061f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-dd0e44234c75c4042a49aecb970a29a6
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-dd0e44234c75c4042a49aecb970a29a6
+    projectPath: Temp/UnityTempFile-dd0e44234c75c4042a49aecb970a29a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-df8ae06a246bf42d388408c45493a4b4
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-df8ae06a246bf42d388408c45493a4b4
+    projectPath: Temp/UnityTempFile-df8ae06a246bf42d388408c45493a4b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e32b650b80dab4f49a315158c2a5bfc8
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e32b650b80dab4f49a315158c2a5bfc8
+    projectPath: Temp/UnityTempFile-e32b650b80dab4f49a315158c2a5bfc8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e3fdc675de6c64ccfb2416a5eb3dc1a7
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e3fdc675de6c64ccfb2416a5eb3dc1a7
+    projectPath: Temp/UnityTempFile-e3fdc675de6c64ccfb2416a5eb3dc1a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e6cb6cc82242c4c57bea2168a4a885ac
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-e6cb6cc82242c4c57bea2168a4a885ac
+    projectPath: Temp/UnityTempFile-e6cb6cc82242c4c57bea2168a4a885ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ebbf81c122b3e4094a32d501ff2977e3
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-ebbf81c122b3e4094a32d501ff2977e3
+    projectPath: Temp/UnityTempFile-ebbf81c122b3e4094a32d501ff2977e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f238d6785153f42dcbef099d0418c3de
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-f238d6785153f42dcbef099d0418c3de
+    projectPath: Temp/UnityTempFile-f238d6785153f42dcbef099d0418c3de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f3b3d3d3b7eec431aabf604c2bf77bba
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-f3b3d3d3b7eec431aabf604c2bf77bba
+    projectPath: Temp/UnityTempFile-f3b3d3d3b7eec431aabf604c2bf77bba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f90d4e8fba7b64d048a3bf9a4f5ac6c5
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-f90d4e8fba7b64d048a3bf9a4f5ac6c5
+    projectPath: Temp/UnityTempFile-f90d4e8fba7b64d048a3bf9a4f5ac6c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-fa1d5569ab2104dba931b566002b861d
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-fa1d5569ab2104dba931b566002b861d
+    projectPath: Temp/UnityTempFile-fa1d5569ab2104dba931b566002b861d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-fc4b7ac8f432e483a87e6c91e905b42f
+    fullPath: /Users/olegnabereznyy/Downloads/Tanks/Temp/UnityTempFile-fc4b7ac8f432e483a87e6c91e905b42f
+    projectPath: Temp/UnityTempFile-fc4b7ac8f432e483a87e6c91e905b42f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

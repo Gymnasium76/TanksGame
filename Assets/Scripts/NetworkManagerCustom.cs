@@ -5,7 +5,7 @@ using UnityEngine;
 namespace Mirror.Examples.Tanks
 {
     [AddComponentMenu("")]
-    public class NetworkManagerCustom : NetworkManager
+    public class NetworkManagerCustom
     {
         
     }

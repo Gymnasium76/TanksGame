@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{C7E45AC5-E64D-261F-DF12-5BF4A531E67F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TileScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../ЕУые/Assets/GAME/Snake(Game)/Scripts/SnakeScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/TankScript.cs" Line="113" Column="19" />
+      <File FileName="Assets/Scripts/TankScript.cs" Line="180" Column="60" />
       <File FileName="Assets/Mirror/Runtime/NetworkManager.cs" Line="23" Column="81" />
-      <File FileName="Assets/Scripts/NetworkManagerCustom.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NetworkManagerCustom.cs" Line="8" Column="38" />
       <File FileName="../../ЕУые/Assets/GAME/Snake(Game)/Scripts/SnakeScript.cs" Line="101" Column="3" />
       <File FileName="../../ЕУые/Assets/GAME/Snake(Game)/Scripts/Wall.cs" Line="13" Column="1" />
-      <File FileName="Assets/Scripts/WallScript.cs" Line="48" Column="10" />
-      <File FileName="Assets/Scripts/TileScript.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/WallScript.cs" Line="32" Column="39" />
+      <File FileName="Assets/Scripts/TileScript.cs" Line="13" Column="12" />
+      <File FileName="Assets/Scripts/ObstacleScript.cs" Line="15" Column="39" />
+      <File FileName="Assets/Scripts/MapGenerator.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +20,7 @@
                 <Node name="Runtime" expanded="True" />
               </Node>
               <Node name="Scripts" expanded="True">
-                <Node name="TileScript.cs" selected="True" />
+                <Node name="MapGenerator.cs" selected="True" />
               </Node>
               <Node name="Standard Assets" expanded="True">
                 <Node name="Utility" expanded="True" />

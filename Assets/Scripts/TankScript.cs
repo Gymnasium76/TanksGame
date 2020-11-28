@@ -18,9 +18,11 @@ public class TankScript : MonoBehaviour
     Quaternion SpawnRot;
 
     private bool UpChecker=false, LeftChecker=false, RightChecker=false, DownChecker=false;
-    public static bool IsAttachedRight = false, IsAttachedLeft = false, IsAttachedUp = false, IsAttachedDown = false;
+    public static bool IsAttachedRight = false, IsAttachedLeft = false, IsAttachedUp = false, IsAttachedDown = false, ColChecker=false;
 
     public static float speed = 0.005f;
+    public static float editPosX, editPosY;
+    public static Vector2 bla, posPerFrame;
 
     private void Start()
     {
@@ -172,13 +174,20 @@ public class TankScript : MonoBehaviour
         {
             tank.transform.Translate(0, -0.03f, 0);
         }
+        //////////////////////////////////////////////
+        if (ColChecker == true)
+        {
+            tank.transform.Translate((bla[0] - 0.000003f)/100, (bla[1]-0.0000003f)/100,0);
+        }
+        //Debug.Log(speed);
+        posPerFrame = tank.transform.position;
     }
-    void OnCollisionEnter2D(Collision2D other)
+    /*void OnCollisionEnter2D(Collision2D other)
     {
         /*if (other.collider.tag != "Tile")
-        {*/
+        {
             Debug.Log("PRIVET");
             speed = 0;
         //}
-    }
+    }*/
 }
