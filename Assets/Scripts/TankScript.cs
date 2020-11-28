@@ -18,8 +18,9 @@ public class TankScript : MonoBehaviour
     Quaternion SpawnRot;
 
     private bool UpChecker=false, LeftChecker=false, RightChecker=false, DownChecker=false;
+    public static bool IsAttachedRight = false, IsAttachedLeft = false, IsAttachedUp = false, IsAttachedDown = false;
 
-    float speed = 0.005f;
+    public static float speed = 0.005f;
 
     private void Start()
     {
@@ -64,7 +65,7 @@ public class TankScript : MonoBehaviour
             RightChecker = true;
         }
         //Debug.Log("SALAM");
-        Debug.Log(LeftChecker);
+        /////////////////////////////////////////////////////////////
         if(UpChecker==true)
         {
             tank.transform.Translate(0, speed /** Time.deltaTime*/, 0);
@@ -97,18 +98,17 @@ public class TankScript : MonoBehaviour
             S.SetActive(false);
             D.SetActive(true);
         }
+        //////////////////////////////////////////////////////////////
         if(CrossPlatformInputManager.GetButtonDown("FireBtn"))
         {
-            Debug.Log("PRIVET");
             if (W.activeSelf)
             {
-                Debug.Log("ACTIVE");
                 SpawnRot = placeW.transform.rotation;
                 Vector3 SpawnPoint = placeW.transform.position;
                 GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
                 Rigidbody Run = FireScr.GetComponent<Rigidbody>();
                 Run.AddForce(FireScr.transform.up * 20, ForceMode.Impulse);
-                Destroy(FireScr, 0.2f);
+                //Destroy(FireScr, 0.2f);
             }
             else if(A.activeSelf)
             {
@@ -117,7 +117,7 @@ public class TankScript : MonoBehaviour
                 GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
                 Rigidbody Run = FireScr.GetComponent<Rigidbody>();
                 Run.AddForce(FireScr.transform.right * -20, ForceMode.Impulse);
-                Destroy(FireScr, 0.2f);
+                //Destroy(FireScr, 0.2f);
             }
             else if(S.activeSelf)
             {
@@ -126,7 +126,7 @@ public class TankScript : MonoBehaviour
                 GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
                 Rigidbody Run = FireScr.GetComponent<Rigidbody>();
                 Run.AddForce(FireScr.transform.up * -20, ForceMode.Impulse);
-                Destroy(FireScr, 0.2f);
+                //Destroy(FireScr, 0.2f);
             }
             else if(D.activeSelf)
             {
@@ -135,9 +135,10 @@ public class TankScript : MonoBehaviour
                 GameObject FireScr = Instantiate(tile, SpawnPoint, SpawnRot) as GameObject;
                 Rigidbody Run = FireScr.GetComponent<Rigidbody>();
                 Run.AddForce(FireScr.transform.right * 20, ForceMode.Impulse);
-                Destroy(FireScr, 0.2f);
+                //Destroy(FireScr, 0.2f);
             }
         }
+        ////////////////////////////////////////////////////
         if (CrossPlatformInputManager.GetButtonUp("UpBtn"))
         {
             UpChecker = false;
@@ -154,8 +155,25 @@ public class TankScript : MonoBehaviour
         {
             RightChecker = false;
         }
+        ////////////////////////////////////////////////////////
+        if(IsAttachedRight==true)
+        {
+            tank.transform.Translate(-0.03f, 0, 0);
+        }
+        else if(IsAttachedLeft==true)
+        {
+            tank.transform.Translate(0.03f, 0, 0);
+        }
+        else if(IsAttachedDown==true)
+        {
+            tank.transform.Translate(0, 0.03f, 0);
+        }
+        else if(IsAttachedUp==true)
+        {
+            tank.transform.Translate(0, -0.03f, 0);
+        }
     }
-    void OnCollisionStay2D(Collision2D other)
+    void OnCollisionEnter2D(Collision2D other)
     {
         /*if (other.collider.tag != "Tile")
         {*/

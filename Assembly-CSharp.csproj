@@ -83,6 +83,7 @@
     <Compile Include="Assets\Scripts\NetworkManagerCustom.cs" />
     <Compile Include="Assets\Scripts\TankScript.cs" />
     <Compile Include="Assets\Scripts\TileScript.cs" />
+    <Compile Include="Assets\Scripts\WallScript.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <None Include="Assets\Mirror\Version.txt" />
     <None Include="Assets\Mirror\Readme.txt" />
